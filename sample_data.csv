@@ -1,0 +1,601 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+0000-SYN,Female,1,No,No,63,No,No,Fiber optic,No,Yes,No,No,No,No internet service,One year,No,Mailed check,65.78,4039.96,No
+0001-SYN,Female,1,No,No,34,Yes,Yes,No,No,No,No internet service,No internet service,No,Yes,Month-to-month,Yes,Mailed check,44.46,1464.45,Yes
+0002-SYN,Male,0,No,Yes,70,Yes,No phone service,Fiber optic,Yes,No internet service,Yes,Yes,Yes,No internet service,Two year,No,Credit card (automatic),22.61,1426.22,No
+0003-SYN,Male,1,No,No,54,No,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Bank transfer (automatic),67.11,3973.44,No
+0004-SYN,Male,1,Yes,Yes,46,No,No phone service,No,No,No internet service,No,No internet service,No,No internet service,Month-to-month,No,Bank transfer (automatic),115.85,5442.62,No
+0005-SYN,Female,1,Yes,No,65,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,Two year,Yes,Bank transfer (automatic),84.56,5389.03,Yes
+0006-SYN,Female,0,No,No,37,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,No internet service,No,No,One year,Yes,Credit card (automatic),68.54,2558.18,No
+0007-SYN,Female,1,No,Yes,51,No,No,Fiber optic,No,No,Yes,No internet service,Yes,Yes,One year,Yes,Mailed check,29.29,1356.52,No
+0008-SYN,Male,0,No,Yes,20,Yes,Yes,DSL,No,No internet service,Yes,No,No,No,Month-to-month,No,Electronic check,43.75,817.89,Yes
+0009-SYN,Female,1,No,No,69,No,Yes,Fiber optic,No internet service,No internet service,No,No,Yes,No internet service,Month-to-month,No,Mailed check,48.07,3398.66,No
+0010-SYN,Male,0,Yes,Yes,44,No,No,DSL,No internet service,Yes,No,Yes,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),96.01,4236.49,No
+0011-SYN,Female,0,Yes,No,56,No,No,DSL,No internet service,No,No internet service,No,No,Yes,Two year,Yes,Credit card (automatic),107.42,6360.9,No
+0012-SYN,Male,1,No,No,33,Yes,No phone service,Fiber optic,Yes,No internet service,No,No internet service,No,Yes,One year,No,Mailed check,109.97,3744.23,No
+0013-SYN,Female,1,No,No,62,Yes,No,Fiber optic,No,Yes,No,No internet service,No,No internet service,Two year,No,Bank transfer (automatic),118.43,7491.62,No
+0014-SYN,Female,1,Yes,Yes,5,No,No phone service,No,No internet service,No internet service,Yes,No,No internet service,No,Month-to-month,Yes,Credit card (automatic),118.2,628.26,No
+0015-SYN,Female,0,Yes,No,8,Yes,Yes,DSL,No,Yes,Yes,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),115.21,842.1,No
+0016-SYN,Male,1,Yes,No,36,No,No,DSL,No,No,No internet service,No internet service,No,Yes,One year,No,Credit card (automatic),25.33,946.69,No
+0017-SYN,Male,0,Yes,Yes,52,Yes,No phone service,No,No,No,Yes,Yes,No internet service,No,Month-to-month,Yes,Credit card (automatic),32.05,1738.46,No
+0018-SYN,Female,1,No,No,58,No,Yes,DSL,No,No internet service,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),49.06,2717.53,No
+0019-SYN,Male,1,No,Yes,31,Yes,Yes,DSL,No,No internet service,No internet service,No,No internet service,No internet service,One year,Yes,Mailed check,74.4,2166.01,No
+0020-SYN,Male,1,No,No,46,No,No phone service,DSL,Yes,No,No internet service,No,No,No internet service,One year,Yes,Mailed check,27.89,1209.52,No
+0021-SYN,Female,1,No,No,39,No,No,Fiber optic,No,Yes,Yes,No internet service,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),104.27,3821.03,No
+0022-SYN,Female,1,Yes,No,69,Yes,No phone service,No,Yes,No,Yes,No internet service,No internet service,Yes,Two year,Yes,Electronic check,80.91,5609.34,No
+0023-SYN,Female,1,Yes,No,47,Yes,No,Fiber optic,No internet service,No,No internet service,No,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),73.32,3194.91,No
+0024-SYN,Female,0,Yes,No,30,Yes,No phone service,Fiber optic,No internet service,No internet service,No internet service,Yes,No internet service,Yes,One year,Yes,Bank transfer (automatic),34.86,1079.12,No
+0025-SYN,Male,0,Yes,Yes,69,Yes,No phone service,DSL,No,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),43.83,2785.4,No
+0026-SYN,Male,0,No,Yes,7,Yes,No phone service,Fiber optic,No,No,No,No internet service,Yes,No internet service,Month-to-month,Yes,Mailed check,34.35,217.7,No
+0027-SYN,Female,1,Yes,No,70,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,No internet service,No,Yes,Month-to-month,Yes,Bank transfer (automatic),104.9,7077.61,No
+0028-SYN,Male,1,Yes,No,11,No,No,DSL,No,Yes,No internet service,No,No,Yes,Month-to-month,Yes,Electronic check,77.59,800.89,No
+0029-SYN,Male,0,No,No,20,No,Yes,DSL,No,Yes,No internet service,Yes,Yes,No internet service,One year,No,Bank transfer (automatic),92.98,2041.34,No
+0030-SYN,Male,0,No,No,59,Yes,Yes,DSL,Yes,Yes,Yes,No,No internet service,Yes,One year,No,Credit card (automatic),48.2,2731.75,No
+0031-SYN,Female,0,Yes,Yes,52,Yes,Yes,DSL,Yes,No internet service,No,Yes,Yes,No,Two year,Yes,Credit card (automatic),55.87,2743.75,No
+0032-SYN,Female,0,Yes,Yes,69,Yes,No,Fiber optic,Yes,Yes,No,No,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),59.3,3843.55,No
+0033-SYN,Male,0,No,Yes,53,No,No,Fiber optic,Yes,No,Yes,No internet service,Yes,No,Month-to-month,Yes,Mailed check,95.52,4934.83,No
+0034-SYN,Male,1,No,No,45,Yes,No phone service,DSL,No internet service,No internet service,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,96.78,4447.3,No
+0035-SYN,Male,1,No,No,24,Yes,Yes,Fiber optic,No,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),39.09,991.06,Yes
+0036-SYN,Female,0,Yes,No,0,Yes,No,Fiber optic,No internet service,No internet service,No,Yes,No,No internet service,Month-to-month,No,Electronic check,114.04,110.95,No
+0037-SYN,Male,0,Yes,Yes,8,No,No phone service,Fiber optic,No,Yes,Yes,Yes,No internet service,No,Month-to-month,Yes,Mailed check,30.31,248.59,Yes
+0038-SYN,Female,1,Yes,Yes,21,Yes,No phone service,No,No internet service,No,Yes,No internet service,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),109.4,2289.16,No
+0039-SYN,Male,1,No,No,2,No,Yes,Fiber optic,No,No,No,Yes,No internet service,No,One year,Yes,Bank transfer (automatic),28.24,60.39,No
+0040-SYN,Male,1,No,No,36,Yes,No phone service,No,No,No internet service,No internet service,No internet service,No,No internet service,Month-to-month,No,Bank transfer (automatic),44.98,1641.64,No
+0041-SYN,Male,0,No,No,55,Yes,Yes,DSL,No internet service,No,No,No internet service,No internet service,Yes,Two year,No,Credit card (automatic),104.34,5497.55,No
+0042-SYN,Female,0,No,No,69,Yes,No,Fiber optic,No,No,No internet service,Yes,No,Yes,One year,Yes,Electronic check,36.31,2607.4,No
+0043-SYN,Male,0,No,No,35,Yes,No,DSL,Yes,Yes,No,Yes,No internet service,No,Month-to-month,Yes,Credit card (automatic),60.18,2241.13,No
+0044-SYN,Male,1,Yes,No,63,No,No phone service,Fiber optic,No,Yes,No internet service,Yes,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),63.89,3997.25,No
+0045-SYN,Male,1,Yes,No,70,Yes,No phone service,Fiber optic,No,No,No internet service,Yes,Yes,No internet service,Two year,Yes,Mailed check,43.02,3304.83,No
+0046-SYN,Male,1,No,No,61,Yes,No phone service,DSL,No,Yes,Yes,No internet service,No,Yes,Month-to-month,Yes,Mailed check,90.45,5935.78,No
+0047-SYN,Male,0,Yes,No,33,Yes,No phone service,Fiber optic,No internet service,No,Yes,No internet service,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),104.84,3250.03,No
+0048-SYN,Female,0,Yes,No,23,No,No,DSL,No internet service,No internet service,No internet service,No internet service,Yes,No,One year,No,Bank transfer (automatic),107.21,2607.25,No
+0049-SYN,Male,1,Yes,Yes,70,Yes,No phone service,DSL,No,No,No internet service,No internet service,No internet service,No,Month-to-month,Yes,Mailed check,52.61,3757.05,No
+0050-SYN,Male,1,Yes,No,17,No,Yes,DSL,Yes,No,Yes,No internet service,Yes,No,Month-to-month,Yes,Electronic check,72.15,1235.09,Yes
+0051-SYN,Male,1,No,Yes,29,No,No,Fiber optic,No,Yes,No,No internet service,No internet service,Yes,Month-to-month,No,Electronic check,43.34,1260.36,Yes
+0052-SYN,Female,0,No,No,5,No,Yes,DSL,No internet service,No,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,42.97,230.04,No
+0053-SYN,Male,0,No,No,57,No,No phone service,Fiber optic,Yes,No,No internet service,No,Yes,No internet service,One year,No,Mailed check,34.45,2007.19,No
+0054-SYN,Male,0,Yes,No,46,No,No phone service,DSL,No internet service,Yes,Yes,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),113.88,5277.98,No
+0055-SYN,Male,1,Yes,No,6,Yes,No phone service,Fiber optic,No,Yes,No internet service,Yes,Yes,No,One year,No,Credit card (automatic),108.57,592.64,Yes
+0056-SYN,Male,1,Yes,No,15,No,No phone service,No,No internet service,No internet service,No,No,No,Yes,Month-to-month,Yes,Electronic check,97.29,1444.26,Yes
+0057-SYN,Male,1,Yes,Yes,39,No,Yes,Fiber optic,No internet service,No internet service,No internet service,No internet service,No internet service,No,One year,Yes,Mailed check,70.8,2986.54,No
+0058-SYN,Female,0,No,Yes,38,Yes,No phone service,Fiber optic,No internet service,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,68.04,2695.01,No
+0059-SYN,Male,1,No,Yes,57,Yes,No,No,No internet service,No internet service,No,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),72.03,3736.98,Yes
+0060-SYN,Male,0,No,No,19,No,No phone service,No,Yes,Yes,Yes,Yes,No,No,One year,No,Bank transfer (automatic),72.73,1488.0,No
+0061-SYN,Male,1,Yes,No,66,No,No phone service,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,62.33,4382.55,No
+0062-SYN,Male,1,No,Yes,32,No,No,No,Yes,No internet service,Yes,No,Yes,Yes,One year,No,Mailed check,31.44,1015.47,No
+0063-SYN,Female,1,Yes,No,59,Yes,Yes,No,Yes,Yes,No,No internet service,No,No internet service,One year,Yes,Bank transfer (automatic),30.82,1644.69,No
+0064-SYN,Female,1,Yes,No,17,Yes,No,Fiber optic,Yes,No,No internet service,Yes,Yes,Yes,One year,No,Credit card (automatic),115.13,1981.65,No
+0065-SYN,Female,1,No,No,2,No,No,Fiber optic,No internet service,Yes,No,No internet service,Yes,No,One year,No,Bank transfer (automatic),67.17,122.37,No
+0066-SYN,Male,0,Yes,No,3,Yes,No phone service,DSL,No,Yes,Yes,No internet service,Yes,No,One year,No,Mailed check,115.23,333.27,No
+0067-SYN,Female,0,Yes,Yes,26,No,No,DSL,No internet service,No,No,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),34.68,924.93,Yes
+0068-SYN,Male,1,No,No,68,No,No,Fiber optic,Yes,No,No,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),74.55,5488.04,No
+0069-SYN,Female,1,Yes,No,3,Yes,No,Fiber optic,Yes,No internet service,No internet service,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),39.19,114.23,Yes
+0070-SYN,Female,0,No,Yes,26,No,Yes,Fiber optic,No internet service,No internet service,Yes,No,No,No internet service,Month-to-month,Yes,Electronic check,43.82,1221.36,Yes
+0071-SYN,Female,1,Yes,No,7,Yes,Yes,Fiber optic,No internet service,No,Yes,No internet service,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),21.07,159.83,No
+0072-SYN,Female,0,No,No,67,Yes,Yes,Fiber optic,No internet service,No,No,No internet service,No,Yes,Two year,Yes,Electronic check,30.13,1825.34,No
+0073-SYN,Male,1,Yes,No,48,Yes,No,No,Yes,Yes,No internet service,No,No internet service,No,Month-to-month,Yes,Credit card (automatic),111.52,5073.99,No
+0074-SYN,Male,0,Yes,No,54,No,No,DSL,No,Yes,No,No internet service,Yes,No,Month-to-month,No,Credit card (automatic),50.8,2858.34,No
+0075-SYN,Female,1,No,No,51,No,No phone service,DSL,Yes,Yes,Yes,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),80.03,4291.19,No
+0076-SYN,Male,0,Yes,No,47,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,Yes,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),65.43,3009.04,No
+0077-SYN,Female,0,No,No,55,No,Yes,No,Yes,Yes,No internet service,No internet service,Yes,Yes,One year,No,Electronic check,58.85,3338.23,No
+0078-SYN,Female,1,Yes,No,0,No,Yes,No,No internet service,No,No internet service,Yes,No internet service,No,One year,Yes,Credit card (automatic),72.25,73.87,No
+0079-SYN,Female,1,No,Yes,62,No,No,No,Yes,No internet service,Yes,No,No,No internet service,One year,Yes,Mailed check,37.1,2410.51,No
+0080-SYN,Male,0,No,Yes,53,No,No phone service,No,Yes,No internet service,Yes,Yes,No,No,One year,No,Mailed check,118.84,6573.96,No
+0081-SYN,Female,1,Yes,Yes,53,No,Yes,DSL,No internet service,No,Yes,No internet service,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),101.47,4932.48,No
+0082-SYN,Male,0,Yes,No,28,No,Yes,Fiber optic,No,Yes,No,Yes,No internet service,No internet service,Two year,No,Credit card (automatic),93.64,2442.71,No
+0083-SYN,Male,0,No,No,57,No,Yes,DSL,No,No,No internet service,No,Yes,No internet service,Month-to-month,No,Mailed check,65.81,3475.63,No
+0084-SYN,Male,0,No,No,27,Yes,No,Fiber optic,No,No,Yes,No internet service,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),33.59,985.38,Yes
+0085-SYN,Female,0,Yes,No,3,Yes,No phone service,No,Yes,Yes,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),111.91,363.5,Yes
+0086-SYN,Female,1,Yes,Yes,65,Yes,No phone service,DSL,No internet service,No internet service,Yes,Yes,No internet service,No,One year,No,Mailed check,52.82,3637.52,No
+0087-SYN,Female,1,No,No,16,No,No,Fiber optic,No,No internet service,No internet service,No internet service,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),23.11,341.42,No
+0088-SYN,Female,0,No,No,7,No,Yes,DSL,Yes,Yes,Yes,No,No internet service,No,Month-to-month,No,Credit card (automatic),52.93,376.01,No
+0089-SYN,Male,0,Yes,No,44,No,No,DSL,No,Yes,No internet service,No internet service,No,Yes,Month-to-month,No,Mailed check,99.03,4084.75,No
+0090-SYN,Male,1,Yes,No,16,Yes,No,DSL,Yes,Yes,No,No,No,No internet service,Month-to-month,Yes,Credit card (automatic),81.52,1269.99,Yes
+0091-SYN,Female,1,No,No,61,Yes,Yes,DSL,Yes,No internet service,Yes,Yes,No,No,One year,Yes,Credit card (automatic),94.59,5501.21,No
+0092-SYN,Male,0,Yes,No,31,Yes,No phone service,No,No,Yes,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),98.95,3269.25,Yes
+0093-SYN,Male,0,Yes,No,0,No,No phone service,Fiber optic,Yes,No internet service,No internet service,Yes,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),39.62,36.8,Yes
+0094-SYN,Female,0,No,No,68,Yes,Yes,No,Yes,No internet service,No,No internet service,No,No,Month-to-month,Yes,Credit card (automatic),112.23,7854.76,No
+0095-SYN,Female,0,Yes,Yes,37,Yes,Yes,Fiber optic,No,No,No,No internet service,Yes,No internet service,One year,Yes,Bank transfer (automatic),62.67,2543.2,No
+0096-SYN,Male,1,No,Yes,18,No,Yes,DSL,No,No,No internet service,No,Yes,No,Month-to-month,No,Credit card (automatic),83.18,1553.25,Yes
+0097-SYN,Female,1,Yes,No,48,Yes,No phone service,DSL,Yes,No internet service,No,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),18.24,801.84,Yes
+0098-SYN,Male,1,No,Yes,38,No,No,No,No internet service,No internet service,No,Yes,No,No internet service,Month-to-month,Yes,Credit card (automatic),119.32,4904.01,Yes
+0099-SYN,Male,1,Yes,Yes,2,No,Yes,DSL,No internet service,Yes,No,No internet service,No,No internet service,Two year,Yes,Credit card (automatic),46.65,95.97,No
+0100-SYN,Male,0,No,No,54,Yes,Yes,No,Yes,Yes,Yes,Yes,No internet service,No internet service,Two year,No,Credit card (automatic),24.33,1302.34,No
+0101-SYN,Female,1,Yes,Yes,28,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No internet service,One year,No,Bank transfer (automatic),64.74,1870.62,No
+0102-SYN,Male,1,Yes,No,50,Yes,No,Fiber optic,No,Yes,Yes,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),31.16,1676.11,No
+0103-SYN,Male,1,No,No,64,Yes,No phone service,No,No internet service,Yes,No,No,No,No internet service,Two year,No,Credit card (automatic),33.54,2136.74,No
+0104-SYN,Female,0,No,No,43,Yes,Yes,DSL,Yes,No internet service,No,Yes,Yes,Yes,One year,No,Mailed check,82.49,3569.29,No
+0105-SYN,Female,1,No,No,48,Yes,Yes,DSL,No internet service,No,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,58.08,2761.33,No
+0106-SYN,Female,0,Yes,No,18,Yes,No,No,Yes,No,No internet service,Yes,No internet service,No,Month-to-month,No,Credit card (automatic),112.03,1844.16,Yes
+0107-SYN,Female,1,Yes,No,17,No,No phone service,DSL,Yes,Yes,Yes,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),50.55,908.69,No
+0108-SYN,Female,1,No,Yes,29,Yes,No,Fiber optic,No internet service,Yes,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Mailed check,92.07,2470.53,No
+0109-SYN,Female,1,No,No,61,No,Yes,Fiber optic,Yes,Yes,No internet service,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),65.03,3883.19,No
+0110-SYN,Female,1,Yes,No,37,No,Yes,DSL,Yes,No,No,Yes,No,No internet service,Month-to-month,No,Electronic check,85.32,3085.38,No
+0111-SYN,Female,1,No,Yes,25,Yes,No phone service,Fiber optic,No internet service,Yes,No,No,Yes,No,Month-to-month,Yes,Mailed check,79.17,1892.18,No
+0112-SYN,Male,0,No,No,56,No,No phone service,Fiber optic,No,No,Yes,Yes,No internet service,No,Month-to-month,Yes,Mailed check,66.22,3636.01,No
+0113-SYN,Male,1,No,No,61,Yes,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,No,Mailed check,114.91,7174.95,No
+0114-SYN,Female,1,No,No,64,No,No,No,No internet service,No,Yes,No internet service,No,No,Month-to-month,No,Credit card (automatic),52.96,3261.58,No
+0115-SYN,Male,0,No,No,21,Yes,No phone service,DSL,No,No,No,No,No,No internet service,Two year,No,Bank transfer (automatic),36.08,708.05,No
+0116-SYN,Female,0,No,Yes,51,No,No,DSL,No,Yes,No,No,Yes,Yes,One year,No,Electronic check,87.17,4774.09,No
+0117-SYN,Male,0,No,No,42,No,Yes,Fiber optic,Yes,No,Yes,Yes,No internet service,No,One year,No,Mailed check,104.29,4792.65,No
+0118-SYN,Female,1,No,Yes,32,No,No,No,No,Yes,Yes,Yes,Yes,No internet service,Month-to-month,Yes,Electronic check,22.11,701.66,No
+0119-SYN,Male,1,No,Yes,28,Yes,No phone service,DSL,Yes,Yes,Yes,Yes,No internet service,No,One year,Yes,Credit card (automatic),63.86,1726.22,No
+0120-SYN,Female,1,Yes,Yes,8,No,No,DSL,No internet service,No internet service,No,No internet service,No internet service,No,One year,Yes,Mailed check,109.03,793.3,No
+0121-SYN,Male,1,No,No,19,No,No phone service,Fiber optic,No,No internet service,No internet service,Yes,No,No,One year,Yes,Mailed check,94.46,1628.49,No
+0122-SYN,Male,1,No,No,39,No,No phone service,No,Yes,No,No,Yes,No internet service,Yes,Month-to-month,No,Mailed check,119.16,4547.68,No
+0123-SYN,Male,1,No,No,63,No,Yes,DSL,No internet service,No internet service,Yes,No internet service,No,No,Month-to-month,No,Electronic check,72.2,4940.0,No
+0124-SYN,Female,0,No,Yes,62,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),85.32,5533.92,No
+0125-SYN,Male,0,Yes,Yes,13,Yes,Yes,Fiber optic,Yes,Yes,Yes,No internet service,Yes,No,Month-to-month,Yes,Bank transfer (automatic),48.85,615.91,No
+0126-SYN,Female,0,No,No,48,No,No phone service,Fiber optic,No internet service,No internet service,No internet service,No,No internet service,No,Month-to-month,No,Mailed check,114.65,6018.35,No
+0127-SYN,Male,1,Yes,Yes,6,No,No phone service,DSL,No internet service,No,No internet service,No internet service,No,Yes,Month-to-month,No,Mailed check,55.37,327.49,Yes
+0128-SYN,Male,0,Yes,No,48,No,Yes,DSL,No internet service,No,Yes,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),93.33,4279.85,No
+0129-SYN,Female,0,Yes,No,24,No,Yes,Fiber optic,No,No,Yes,No,Yes,No internet service,One year,Yes,Electronic check,59.12,1397.98,No
+0130-SYN,Male,0,No,No,32,No,No,Fiber optic,No internet service,Yes,Yes,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),75.31,2270.89,No
+0131-SYN,Male,1,No,No,51,No,No,No,Yes,No internet service,No internet service,No,No internet service,No,Two year,No,Bank transfer (automatic),91.42,5022.02,No
+0132-SYN,Female,1,No,Yes,30,Yes,No phone service,Fiber optic,No,No,Yes,No internet service,Yes,No,One year,No,Electronic check,69.91,2039.07,No
+0133-SYN,Female,1,Yes,Yes,58,Yes,No phone service,Fiber optic,Yes,No,No internet service,No,No,No,Month-to-month,No,Bank transfer (automatic),110.52,6612.68,No
+0134-SYN,Female,0,Yes,No,38,Yes,Yes,No,No,Yes,No,No internet service,No internet service,Yes,One year,No,Credit card (automatic),60.77,2258.02,No
+0135-SYN,Male,1,No,No,71,No,Yes,Fiber optic,Yes,No internet service,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,84.0,6443.19,No
+0136-SYN,Female,1,Yes,No,45,No,No,Fiber optic,Yes,Yes,No internet service,No,Yes,No,Two year,Yes,Bank transfer (automatic),52.92,2449.21,No
+0137-SYN,Male,1,No,Yes,21,No,No,No,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),59.63,1249.29,No
+0138-SYN,Female,0,No,No,55,Yes,No phone service,DSL,No internet service,No internet service,No internet service,No internet service,No,Yes,One year,No,Credit card (automatic),62.89,3204.47,No
+0139-SYN,Female,0,No,No,29,No,No,Fiber optic,No,Yes,Yes,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),30.83,965.94,No
+0140-SYN,Male,1,Yes,No,38,No,No,Fiber optic,No,No,No,No internet service,No,No,Month-to-month,Yes,Bank transfer (automatic),27.36,1049.41,Yes
+0141-SYN,Male,0,Yes,Yes,9,No,Yes,DSL,No,No internet service,No,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),86.08,741.42,Yes
+0142-SYN,Male,1,Yes,No,8,Yes,Yes,Fiber optic,No,No internet service,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),84.86,730.19,No
+0143-SYN,Male,1,No,Yes,41,Yes,No phone service,DSL,Yes,No,Yes,No internet service,Yes,Yes,One year,Yes,Mailed check,85.62,3197.6,No
+0144-SYN,Male,0,Yes,No,13,Yes,No phone service,DSL,No,No internet service,No,No internet service,No,Yes,Month-to-month,No,Bank transfer (automatic),20.02,250.58,Yes
+0145-SYN,Female,1,No,No,71,No,Yes,Fiber optic,No internet service,No internet service,No internet service,Yes,Yes,No internet service,Month-to-month,No,Electronic check,51.31,3669.84,No
+0146-SYN,Male,0,Yes,No,61,No,No phone service,DSL,Yes,No internet service,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Credit card (automatic),38.18,2254.37,No
+0147-SYN,Male,1,Yes,No,50,No,No,Fiber optic,No,Yes,Yes,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),97.37,4845.85,No
+0148-SYN,Female,0,Yes,No,52,Yes,No,No,No internet service,No internet service,No internet service,Yes,Yes,No internet service,Month-to-month,No,Mailed check,105.78,5241.28,No
+0149-SYN,Male,0,No,Yes,42,Yes,No phone service,No,No,Yes,No internet service,Yes,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),43.16,1678.61,No
+0150-SYN,Female,0,No,Yes,4,No,No phone service,DSL,Yes,No internet service,Yes,No,Yes,No,Two year,Yes,Credit card (automatic),86.12,312.57,Yes
+0151-SYN,Female,0,Yes,No,28,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,Two year,Yes,Electronic check,31.2,813.78,No
+0152-SYN,Female,1,No,No,35,No,Yes,DSL,No internet service,Yes,No internet service,No internet service,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),46.07,1758.52,No
+0153-SYN,Male,0,No,Yes,65,Yes,No phone service,DSL,Yes,Yes,Yes,No internet service,No,Yes,One year,Yes,Credit card (automatic),32.14,2120.6,No
+0154-SYN,Male,0,No,Yes,15,No,No phone service,No,No,No,Yes,No internet service,No,No internet service,Month-to-month,No,Credit card (automatic),46.92,702.25,No
+0155-SYN,Female,0,No,No,35,No,Yes,Fiber optic,No internet service,Yes,No,No,No,No internet service,One year,No,Electronic check,86.82,2968.4,No
+0156-SYN,Female,0,Yes,Yes,24,No,No phone service,DSL,Yes,Yes,No,No,No internet service,Yes,Month-to-month,No,Credit card (automatic),110.85,2771.3,Yes
+0157-SYN,Male,0,Yes,Yes,9,Yes,No,No,No,No,No,No internet service,Yes,Yes,One year,Yes,Credit card (automatic),38.66,322.98,No
+0158-SYN,Female,1,No,No,7,No,No,Fiber optic,No internet service,No internet service,No,No internet service,Yes,No internet service,One year,Yes,Electronic check,73.29,490.06,No
+0159-SYN,Female,1,Yes,No,26,No,Yes,DSL,No,No,No internet service,Yes,No internet service,No,One year,Yes,Bank transfer (automatic),89.54,2400.63,No
+0160-SYN,Male,0,Yes,No,5,No,No phone service,DSL,No,No,No internet service,No,Yes,No,Month-to-month,No,Bank transfer (automatic),115.2,573.59,No
+0161-SYN,Female,1,Yes,No,4,Yes,No phone service,Fiber optic,Yes,No,Yes,No internet service,Yes,No internet service,Two year,No,Credit card (automatic),80.23,338.26,No
+0162-SYN,Male,1,No,Yes,25,No,No,Fiber optic,No internet service,No,Yes,No internet service,Yes,Yes,Month-to-month,Yes,Electronic check,44.02,1187.9,Yes
+0163-SYN,Female,0,Yes,No,14,Yes,No phone service,DSL,No,No,Yes,No internet service,Yes,No internet service,Month-to-month,No,Credit card (automatic),81.8,1219.27,Yes
+0164-SYN,Female,1,Yes,No,39,Yes,No phone service,No,No internet service,No,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),50.69,1852.05,No
+0165-SYN,Female,0,No,No,1,No,No phone service,No,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,117.57,107.96,No
+0166-SYN,Male,0,Yes,Yes,21,No,No phone service,No,No,Yes,No internet service,Yes,No,No,Two year,Yes,Mailed check,58.77,1152.58,No
+0167-SYN,Male,0,Yes,Yes,32,Yes,No phone service,DSL,No,No internet service,No,No internet service,Yes,No internet service,Two year,No,Credit card (automatic),87.91,2972.64,No
+0168-SYN,Female,0,Yes,Yes,69,Yes,No phone service,DSL,No internet service,No,Yes,No,No internet service,No,Month-to-month,No,Credit card (automatic),20.37,1521.86,No
+0169-SYN,Female,1,Yes,No,45,No,No phone service,No,No internet service,Yes,No internet service,Yes,Yes,Yes,Two year,Yes,Mailed check,58.81,2871.64,No
+0170-SYN,Female,1,No,No,63,No,No,DSL,Yes,Yes,Yes,Yes,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),107.26,6484.67,No
+0171-SYN,Male,0,No,No,24,Yes,No phone service,Fiber optic,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),80.24,2056.84,No
+0172-SYN,Male,1,Yes,No,32,No,Yes,Fiber optic,No internet service,Yes,No internet service,No internet service,No,No,Month-to-month,Yes,Electronic check,63.28,2039.64,No
+0173-SYN,Female,1,No,No,30,No,No,DSL,Yes,Yes,No internet service,No internet service,No,Yes,Two year,No,Bank transfer (automatic),113.47,3623.86,No
+0174-SYN,Male,1,No,No,63,No,No,Fiber optic,Yes,No internet service,No internet service,No internet service,Yes,Yes,Month-to-month,No,Credit card (automatic),105.11,6685.98,No
+0175-SYN,Female,1,No,Yes,69,Yes,No phone service,No,No internet service,No,Yes,No internet service,Yes,Yes,Month-to-month,No,Electronic check,50.87,3261.44,No
+0176-SYN,Male,1,No,No,69,No,Yes,Fiber optic,No internet service,No,No,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,73.54,4647.23,No
+0177-SYN,Male,0,No,No,54,No,No,Fiber optic,No,No internet service,No,No internet service,No,No internet service,Two year,No,Electronic check,67.96,4005.42,No
+0178-SYN,Male,1,Yes,Yes,36,No,Yes,No,No,Yes,No,No internet service,Yes,No,Two year,Yes,Bank transfer (automatic),82.48,2925.22,No
+0179-SYN,Female,1,Yes,No,38,No,No phone service,Fiber optic,No internet service,No,No internet service,No,No internet service,Yes,One year,Yes,Electronic check,52.08,1919.87,No
+0180-SYN,Female,1,No,No,70,Yes,No phone service,Fiber optic,Yes,No internet service,No,No internet service,No internet service,No,Two year,No,Credit card (automatic),42.91,2917.38,No
+0181-SYN,Male,1,No,Yes,20,Yes,Yes,No,Yes,No,Yes,No internet service,Yes,Yes,Two year,Yes,Electronic check,111.09,2168.0,No
+0182-SYN,Male,0,No,No,24,Yes,No phone service,Fiber optic,No internet service,Yes,No internet service,Yes,Yes,No,Month-to-month,No,Electronic check,112.24,2933.5,No
+0183-SYN,Female,0,Yes,Yes,64,Yes,No,DSL,Yes,No internet service,No,No internet service,Yes,No,Month-to-month,Yes,Mailed check,104.02,6075.04,No
+0184-SYN,Male,0,Yes,Yes,27,Yes,No phone service,DSL,No,No internet service,No internet service,No,Yes,No internet service,One year,Yes,Credit card (automatic),117.78,2937.78,No
+0185-SYN,Female,0,No,Yes,16,Yes,No phone service,DSL,No,Yes,Yes,Yes,No,Yes,One year,No,Credit card (automatic),93.99,1590.96,No
+0186-SYN,Male,1,Yes,No,40,No,Yes,Fiber optic,No,Yes,No internet service,Yes,Yes,Yes,Month-to-month,No,Mailed check,96.0,3877.95,No
+0187-SYN,Male,1,No,No,23,No,Yes,Fiber optic,Yes,No internet service,Yes,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),95.78,2039.28,Yes
+0188-SYN,Male,1,No,Yes,64,No,No,Fiber optic,No internet service,Yes,No,No internet service,Yes,No,One year,Yes,Credit card (automatic),67.02,3889.91,No
+0189-SYN,Female,1,No,Yes,65,No,Yes,Fiber optic,No internet service,No internet service,No internet service,No internet service,No internet service,No,Month-to-month,Yes,Credit card (automatic),64.56,3964.96,No
+0190-SYN,Male,1,Yes,Yes,22,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No internet service,Yes,Two year,Yes,Electronic check,42.5,890.27,No
+0191-SYN,Female,1,No,Yes,38,Yes,No phone service,No,No,No internet service,Yes,No,No,No internet service,Month-to-month,Yes,Credit card (automatic),83.77,2873.98,No
+0192-SYN,Male,1,No,No,70,Yes,No phone service,DSL,Yes,No internet service,No internet service,No,No,No,Month-to-month,No,Credit card (automatic),47.51,3136.86,Yes
+0193-SYN,Male,1,No,No,53,Yes,No,Fiber optic,Yes,No,No internet service,No,Yes,No internet service,Two year,Yes,Bank transfer (automatic),44.3,2459.81,No
+0194-SYN,Female,1,No,No,15,Yes,Yes,Fiber optic,No internet service,Yes,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),77.77,1249.48,No
+0195-SYN,Female,0,Yes,No,42,No,Yes,Fiber optic,No,No,Yes,No internet service,No,Yes,Month-to-month,Yes,Mailed check,59.82,2712.55,No
+0196-SYN,Male,1,No,No,44,No,No phone service,DSL,No,No internet service,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),40.32,1735.02,No
+0197-SYN,Male,1,No,Yes,47,No,Yes,Fiber optic,No internet service,No internet service,Yes,No,No,No,Two year,No,Credit card (automatic),101.24,4586.42,No
+0198-SYN,Male,1,No,Yes,1,Yes,Yes,No,No internet service,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),105.78,116.36,Yes
+0199-SYN,Female,0,No,No,21,No,No,Fiber optic,No internet service,No,Yes,No,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),35.11,777.03,Yes
+0200-SYN,Male,0,Yes,No,61,No,No,No,No internet service,No internet service,No internet service,No internet service,No,No internet service,One year,No,Mailed check,18.77,1153.52,No
+0201-SYN,Male,0,No,No,17,Yes,No,No,No,Yes,Yes,No,No,Yes,Two year,Yes,Bank transfer (automatic),52.29,845.33,No
+0202-SYN,Male,1,Yes,No,21,Yes,No,Fiber optic,No,No internet service,No,No internet service,No internet service,Yes,Month-to-month,Yes,Electronic check,99.35,2011.79,Yes
+0203-SYN,Female,1,Yes,No,23,No,No phone service,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),103.6,2390.12,Yes
+0204-SYN,Male,1,No,No,12,Yes,No,Fiber optic,No internet service,No internet service,No,No internet service,No,Yes,Month-to-month,Yes,Bank transfer (automatic),32.11,388.56,Yes
+0205-SYN,Female,1,Yes,No,11,No,No phone service,No,Yes,Yes,Yes,No internet service,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),96.98,963.02,Yes
+0206-SYN,Male,0,Yes,Yes,24,Yes,No,DSL,No internet service,Yes,No,No internet service,Yes,Yes,Month-to-month,Yes,Electronic check,29.8,780.91,No
+0207-SYN,Male,1,No,Yes,62,Yes,No,Fiber optic,No internet service,No,No,No,No internet service,No,One year,Yes,Bank transfer (automatic),57.79,3637.16,No
+0208-SYN,Male,1,No,Yes,0,No,No,No,Yes,No,No,No,No internet service,Yes,Month-to-month,Yes,Electronic check,119.86,122.0,No
+0209-SYN,Male,0,Yes,Yes,20,Yes,No phone service,DSL,No internet service,Yes,No internet service,No,No,Yes,Month-to-month,Yes,Credit card (automatic),37.64,709.36,No
+0210-SYN,Male,1,Yes,No,4,Yes,No phone service,Fiber optic,No internet service,No,No,No,No internet service,Yes,One year,No,Bank transfer (automatic),33.7,141.94,No
+0211-SYN,Female,0,Yes,No,40,Yes,Yes,Fiber optic,No,Yes,No,No internet service,No internet service,No internet service,One year,Yes,Mailed check,61.13,2561.23,No
+0212-SYN,Male,1,No,No,18,Yes,No phone service,No,No,No internet service,Yes,No internet service,Yes,No,Month-to-month,Yes,Credit card (automatic),81.21,1343.42,No
+0213-SYN,Female,1,Yes,No,57,No,No phone service,No,No internet service,Yes,Yes,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),113.16,6572.67,No
+0214-SYN,Male,1,No,Yes,42,Yes,No phone service,DSL,No,No,No,No internet service,Yes,Yes,One year,Yes,Electronic check,118.04,5114.53,No
+0215-SYN,Male,1,No,No,56,Yes,Yes,Fiber optic,Yes,No internet service,No,No internet service,Yes,Yes,One year,No,Electronic check,25.1,1499.93,No
+0216-SYN,Male,0,No,No,45,No,No phone service,DSL,Yes,Yes,No internet service,No,Yes,No,Month-to-month,No,Mailed check,32.08,1358.74,No
+0217-SYN,Male,1,Yes,Yes,31,No,Yes,Fiber optic,No internet service,Yes,No internet service,Yes,No,No,Month-to-month,No,Electronic check,98.66,3289.46,Yes
+0218-SYN,Female,1,No,Yes,61,Yes,Yes,Fiber optic,No,No internet service,Yes,No,No internet service,Yes,Two year,Yes,Bank transfer (automatic),45.6,2760.17,No
+0219-SYN,Male,1,Yes,No,34,No,No phone service,No,Yes,Yes,No,No internet service,No,Yes,Month-to-month,Yes,Bank transfer (automatic),108.25,3383.5,No
+0220-SYN,Female,1,Yes,Yes,68,Yes,Yes,DSL,No internet service,No internet service,No,No internet service,No,No,Month-to-month,Yes,Bank transfer (automatic),85.67,5366.06,No
+0221-SYN,Female,0,Yes,No,71,No,No phone service,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,29.41,1961.91,No
+0222-SYN,Female,1,Yes,No,42,No,No,Fiber optic,Yes,No internet service,No,No internet service,No,No,One year,No,Credit card (automatic),102.92,4134.82,No
+0223-SYN,Male,0,No,No,48,No,Yes,Fiber optic,No,Yes,No,Yes,No,No internet service,Two year,No,Credit card (automatic),35.99,1726.28,Yes
+0224-SYN,Male,1,Yes,Yes,18,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),61.2,1156.4,No
+0225-SYN,Female,0,No,No,58,Yes,No phone service,DSL,No,No internet service,No,No internet service,Yes,No,Two year,Yes,Electronic check,74.32,4040.48,No
+0226-SYN,Male,0,Yes,No,48,No,No phone service,DSL,No internet service,No internet service,No internet service,No,Yes,No,Month-to-month,Yes,Mailed check,69.08,3642.55,No
+0227-SYN,Male,0,Yes,Yes,64,No,No,No,No internet service,No internet service,Yes,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),87.99,5250.14,No
+0228-SYN,Female,1,Yes,No,19,Yes,No phone service,DSL,No internet service,Yes,No,No,No,No,One year,Yes,Bank transfer (automatic),84.57,1638.77,No
+0229-SYN,Female,0,Yes,No,56,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,No,Electronic check,119.19,7247.24,No
+0230-SYN,Female,0,Yes,No,33,Yes,No,No,Yes,No,Yes,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),119.94,4221.23,No
+0231-SYN,Male,1,No,Yes,13,No,Yes,DSL,No internet service,No,No internet service,No internet service,No internet service,Yes,Month-to-month,No,Credit card (automatic),70.68,946.02,No
+0232-SYN,Female,0,No,No,12,Yes,No,Fiber optic,No,Yes,No,Yes,No,Yes,Two year,No,Bank transfer (automatic),27.71,346.85,No
+0233-SYN,Male,0,Yes,Yes,40,No,Yes,DSL,No internet service,No,Yes,Yes,No,No,One year,No,Mailed check,92.24,3419.67,No
+0234-SYN,Female,0,No,Yes,23,No,No,No,Yes,No,No,No,No internet service,Yes,Two year,Yes,Bank transfer (automatic),117.62,2439.96,No
+0235-SYN,Female,0,No,Yes,7,No,No,Fiber optic,No internet service,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,50.47,348.64,No
+0236-SYN,Female,1,Yes,No,30,Yes,No,No,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),65.04,1791.01,No
+0237-SYN,Female,1,Yes,Yes,47,No,No,DSL,No internet service,Yes,Yes,No,No internet service,No internet service,One year,No,Electronic check,61.33,2800.5,No
+0238-SYN,Male,1,Yes,No,22,No,No,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,23.24,483.03,No
+0239-SYN,Male,0,No,No,68,Yes,No,Fiber optic,No,Yes,No,No,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),86.57,6376.95,No
+0240-SYN,Male,0,No,No,56,No,Yes,DSL,No internet service,No,No,No,Yes,Yes,Two year,No,Bank transfer (automatic),54.04,3256.27,No
+0241-SYN,Male,0,Yes,No,36,No,Yes,DSL,No,Yes,No,No internet service,Yes,No,One year,Yes,Credit card (automatic),98.32,3765.3,No
+0242-SYN,Female,0,No,No,67,No,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),102.88,7187.9,No
+0243-SYN,Male,1,No,Yes,31,No,No phone service,No,Yes,No,Yes,No internet service,No,No,Month-to-month,Yes,Credit card (automatic),101.77,2936.6,No
+0244-SYN,Female,1,No,Yes,10,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,No,Yes,No internet service,One year,Yes,Credit card (automatic),60.5,550.35,No
+0245-SYN,Male,0,Yes,No,2,No,No,Fiber optic,Yes,Yes,No,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,50.8,104.73,No
+0246-SYN,Male,1,No,No,67,No,No phone service,Fiber optic,No,No,No,Yes,Yes,No,One year,Yes,Credit card (automatic),94.38,6503.37,No
+0247-SYN,Male,1,No,No,69,Yes,No phone service,Fiber optic,No internet service,Yes,No internet service,Yes,No,No internet service,Month-to-month,Yes,Mailed check,99.74,6702.33,No
+0248-SYN,Female,0,No,No,53,No,No,Fiber optic,No,No,Yes,No,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),68.11,3590.11,No
+0249-SYN,Female,1,No,No,7,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,109.09,761.97,Yes
+0250-SYN,Female,0,No,No,21,No,No,Fiber optic,Yes,No internet service,No internet service,No,Yes,No internet service,One year,Yes,Electronic check,32.68,650.58,No
+0251-SYN,Male,0,No,No,2,No,No,DSL,No,No,No internet service,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),107.67,207.34,No
+0252-SYN,Male,1,Yes,Yes,3,Yes,Yes,No,No internet service,No internet service,No internet service,No,No,Yes,Month-to-month,Yes,Mailed check,27.8,82.04,Yes
+0253-SYN,Female,1,Yes,No,17,Yes,No phone service,No,Yes,Yes,Yes,No internet service,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),33.66,584.03,No
+0254-SYN,Female,0,Yes,Yes,41,Yes,No phone service,DSL,No,Yes,Yes,No internet service,No internet service,Yes,Month-to-month,Yes,Electronic check,72.45,3241.25,No
+0255-SYN,Male,1,Yes,No,4,No,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,24.89,100.33,Yes
+0256-SYN,Female,1,No,Yes,70,Yes,No,DSL,Yes,No,Yes,No,No internet service,Yes,Two year,Yes,Bank transfer (automatic),23.39,1713.0,No
+0257-SYN,Male,1,No,No,32,No,Yes,No,No internet service,Yes,No internet service,No,No,No,Month-to-month,No,Bank transfer (automatic),18.05,613.06,No
+0258-SYN,Male,0,No,No,18,Yes,Yes,No,No,Yes,No internet service,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),62.5,1038.04,No
+0259-SYN,Female,1,No,Yes,37,No,Yes,No,Yes,Yes,No internet service,No internet service,Yes,Yes,One year,No,Credit card (automatic),97.01,3699.29,No
+0260-SYN,Male,1,Yes,Yes,56,No,No,DSL,No,No internet service,No internet service,No,Yes,No internet service,Month-to-month,No,Credit card (automatic),21.55,1202.48,No
+0261-SYN,Male,1,Yes,No,22,Yes,Yes,DSL,No internet service,No internet service,No,No internet service,Yes,No,Two year,No,Electronic check,84.53,1886.6,Yes
+0262-SYN,Female,1,No,Yes,3,No,Yes,DSL,No internet service,Yes,No,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),101.96,277.64,No
+0263-SYN,Female,1,Yes,No,3,No,No,DSL,No,No internet service,No internet service,Yes,No,No,Month-to-month,No,Electronic check,35.14,113.98,Yes
+0264-SYN,Male,1,No,No,61,Yes,No,DSL,No,Yes,No internet service,No internet service,Yes,Yes,Two year,No,Mailed check,32.98,2193.96,No
+0265-SYN,Male,1,Yes,Yes,8,Yes,Yes,DSL,No internet service,No,No,Yes,No internet service,Yes,Month-to-month,No,Electronic check,105.8,762.35,Yes
+0266-SYN,Female,1,Yes,Yes,45,No,No,No,Yes,Yes,No internet service,No,Yes,No,Month-to-month,Yes,Mailed check,101.96,4324.65,No
+0267-SYN,Female,0,No,No,27,Yes,Yes,DSL,Yes,No,No,No,Yes,No internet service,Month-to-month,No,Electronic check,72.97,1844.17,No
+0268-SYN,Female,0,No,No,55,Yes,No phone service,DSL,No,No internet service,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),101.56,5900.06,No
+0269-SYN,Female,1,No,Yes,4,No,No,No,No,No internet service,No internet service,No,Yes,No,Month-to-month,Yes,Electronic check,27.46,111.99,Yes
+0270-SYN,Male,1,Yes,No,64,No,No phone service,Fiber optic,No,No,No,Yes,No internet service,No,Month-to-month,No,Bank transfer (automatic),58.24,3486.82,No
+0271-SYN,Female,1,No,No,50,Yes,Yes,Fiber optic,Yes,No,No internet service,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),93.26,4955.81,No
+0272-SYN,Male,0,No,No,32,Yes,No phone service,Fiber optic,No internet service,No internet service,No,No internet service,Yes,Yes,Month-to-month,Yes,Electronic check,44.26,1374.81,Yes
+0273-SYN,Male,1,No,No,14,Yes,No,No,No,Yes,Yes,No internet service,No internet service,No,One year,Yes,Electronic check,94.74,1315.98,Yes
+0274-SYN,Female,0,Yes,No,70,No,Yes,Fiber optic,No internet service,No,Yes,No internet service,No,No internet service,One year,No,Credit card (automatic),69.43,4750.56,No
+0275-SYN,Male,0,Yes,No,21,Yes,No phone service,Fiber optic,No internet service,Yes,No,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),94.53,1993.62,Yes
+0276-SYN,Female,0,No,No,35,No,Yes,Fiber optic,No internet service,No internet service,No,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,65.4,2279.91,Yes
+0277-SYN,Male,0,Yes,No,28,No,Yes,Fiber optic,No,No,No,No,Yes,No internet service,Month-to-month,No,Credit card (automatic),55.53,1484.74,No
+0278-SYN,Female,1,No,No,16,No,No phone service,DSL,No,No,No internet service,Yes,Yes,Yes,Two year,Yes,Electronic check,40.36,636.02,Yes
+0279-SYN,Female,1,Yes,Yes,29,No,Yes,Fiber optic,Yes,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),39.25,1231.21,No
+0280-SYN,Male,0,Yes,No,10,No,No,DSL,No,Yes,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Electronic check,94.65,947.05,No
+0281-SYN,Male,1,No,Yes,0,Yes,Yes,Fiber optic,No internet service,Yes,No internet service,No,Yes,No,Month-to-month,No,Bank transfer (automatic),30.13,32.64,No
+0282-SYN,Female,0,Yes,Yes,20,Yes,Yes,DSL,No,No internet service,No,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,26.77,540.77,No
+0283-SYN,Male,0,Yes,Yes,8,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No internet service,Month-to-month,Yes,Electronic check,35.98,303.32,No
+0284-SYN,Male,1,No,Yes,29,No,Yes,DSL,Yes,Yes,Yes,No,No internet service,No,One year,Yes,Mailed check,35.89,997.84,No
+0285-SYN,Male,0,Yes,No,62,No,No,No,No,Yes,No,Yes,Yes,No internet service,Month-to-month,Yes,Electronic check,101.96,6688.69,Yes
+0286-SYN,Female,1,No,No,11,Yes,No,DSL,No,No internet service,No,No,No,No internet service,Month-to-month,No,Mailed check,58.65,614.74,No
+0287-SYN,Male,0,Yes,No,0,Yes,Yes,Fiber optic,No internet service,Yes,No,No,No,No internet service,Month-to-month,Yes,Electronic check,119.02,107.58,No
+0288-SYN,Female,0,No,Yes,7,No,No,No,No internet service,No internet service,Yes,Yes,Yes,No internet service,Month-to-month,No,Electronic check,32.0,208.8,No
+0289-SYN,Male,1,Yes,No,36,No,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),84.66,2756.18,No
+0290-SYN,Male,1,Yes,No,19,Yes,No,Fiber optic,No,No internet service,No,Yes,No internet service,Yes,Two year,Yes,Credit card (automatic),63.77,1319.96,Yes
+0291-SYN,Male,0,No,No,35,No,No phone service,DSL,No internet service,No,Yes,No internet service,No,Yes,Month-to-month,Yes,Credit card (automatic),58.08,2236.07,No
+0292-SYN,Female,0,No,No,2,No,No phone service,DSL,Yes,Yes,Yes,No internet service,No,Yes,Two year,Yes,Electronic check,107.26,225.77,No
+0293-SYN,Male,1,Yes,No,23,No,No phone service,Fiber optic,No,No,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,117.51,2490.91,No
+0294-SYN,Male,0,No,No,29,Yes,Yes,No,No,No,No internet service,No internet service,No internet service,No,Two year,Yes,Mailed check,107.03,3351.52,No
+0295-SYN,Female,0,Yes,No,31,No,Yes,DSL,No internet service,Yes,No,Yes,Yes,No,Two year,No,Mailed check,37.61,1222.75,No
+0296-SYN,Male,1,Yes,No,39,No,No phone service,Fiber optic,No internet service,No,No internet service,No internet service,No internet service,Yes,Two year,No,Mailed check,40.52,1527.26,No
+0297-SYN,Male,0,No,No,56,No,Yes,DSL,No,Yes,No internet service,Yes,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),84.92,4757.69,No
+0298-SYN,Male,1,No,No,33,Yes,No phone service,Fiber optic,No,No internet service,Yes,No internet service,No internet service,No,One year,Yes,Mailed check,47.49,1617.87,No
+0299-SYN,Male,0,Yes,Yes,60,No,No,Fiber optic,No internet service,No internet service,No,No internet service,No internet service,No internet service,One year,No,Mailed check,92.94,5045.58,No
+0300-SYN,Female,1,No,No,38,No,Yes,Fiber optic,No,Yes,No internet service,No internet service,No internet service,Yes,One year,Yes,Credit card (automatic),75.77,2880.15,No
+0301-SYN,Female,1,Yes,No,18,Yes,No phone service,Fiber optic,Yes,No,Yes,No internet service,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),74.19,1397.49,No
+0302-SYN,Female,0,Yes,Yes,16,No,No,DSL,Yes,No,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Mailed check,102.51,1537.89,No
+0303-SYN,Female,0,Yes,No,23,Yes,No phone service,Fiber optic,No internet service,Yes,Yes,No internet service,No internet service,Yes,Month-to-month,Yes,Electronic check,90.47,2057.42,No
+0304-SYN,Male,0,Yes,No,43,No,No,Fiber optic,No,No,Yes,Yes,Yes,No internet service,Two year,Yes,Bank transfer (automatic),20.71,896.32,No
+0305-SYN,Male,1,No,Yes,17,No,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,23.04,410.13,No
+0306-SYN,Male,1,Yes,Yes,65,No,No phone service,DSL,No internet service,Yes,No,No internet service,No internet service,No,Month-to-month,No,Credit card (automatic),79.36,5637.57,No
+0307-SYN,Female,1,Yes,Yes,34,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,Yes,Yes,Yes,One year,No,Mailed check,67.59,2458.13,No
+0308-SYN,Male,0,No,No,62,Yes,No,Fiber optic,No,No,Yes,No,No internet service,Yes,Month-to-month,Yes,Electronic check,44.54,2828.59,No
+0309-SYN,Female,0,No,Yes,49,No,No,DSL,Yes,No internet service,No,Yes,No,No internet service,Month-to-month,Yes,Electronic check,60.7,3024.05,No
+0310-SYN,Male,1,Yes,No,24,Yes,No phone service,DSL,No internet service,No,Yes,No,Yes,No internet service,Month-to-month,No,Electronic check,95.31,2334.65,No
+0311-SYN,Female,1,No,No,16,No,No phone service,Fiber optic,Yes,No internet service,No internet service,No internet service,Yes,No internet service,Month-to-month,Yes,Mailed check,102.31,1651.75,Yes
+0312-SYN,Male,1,Yes,No,53,No,No,Fiber optic,No,No internet service,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Mailed check,75.24,3636.29,No
+0313-SYN,Female,0,No,No,23,No,No phone service,DSL,No internet service,No,Yes,No,No,No,Month-to-month,No,Credit card (automatic),57.31,1370.41,No
+0314-SYN,Female,0,No,Yes,17,No,Yes,No,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),45.61,808.92,No
+0315-SYN,Female,0,Yes,Yes,66,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No internet service,Month-to-month,No,Electronic check,71.24,4713.58,No
+0316-SYN,Male,0,Yes,No,34,No,No phone service,Fiber optic,Yes,No internet service,No,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),50.1,1829.58,No
+0317-SYN,Male,0,No,Yes,3,Yes,No,Fiber optic,No,No,No internet service,No,Yes,No,One year,Yes,Bank transfer (automatic),75.54,234.44,No
+0318-SYN,Female,1,Yes,Yes,35,No,No,Fiber optic,No internet service,No,Yes,No internet service,Yes,Yes,Month-to-month,No,Mailed check,87.02,2962.04,No
+0319-SYN,Male,0,Yes,No,33,No,Yes,Fiber optic,No internet service,Yes,Yes,Yes,No internet service,No internet service,Two year,Yes,Mailed check,24.74,737.99,No
+0320-SYN,Female,1,No,Yes,62,No,Yes,No,Yes,No internet service,Yes,No,Yes,No internet service,Two year,No,Mailed check,18.11,1023.82,No
+0321-SYN,Female,1,Yes,No,51,Yes,No phone service,Fiber optic,Yes,No,No internet service,No,No internet service,Yes,Month-to-month,Yes,Electronic check,39.65,1962.21,No
+0322-SYN,Female,1,No,No,13,No,No phone service,Fiber optic,No internet service,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),109.24,1409.36,Yes
+0323-SYN,Female,1,No,No,10,No,No phone service,Fiber optic,Yes,No,No,Yes,No,No internet service,Month-to-month,No,Electronic check,83.92,783.29,No
+0324-SYN,Female,0,Yes,No,43,No,No,Fiber optic,Yes,No,No,Yes,No internet service,Yes,Two year,No,Electronic check,35.54,1433.27,No
+0325-SYN,Male,1,Yes,No,3,No,No,DSL,No,Yes,Yes,No,No,No internet service,One year,No,Mailed check,108.81,308.82,No
+0326-SYN,Male,0,No,No,22,No,Yes,Fiber optic,No,No internet service,Yes,No internet service,Yes,No internet service,Two year,No,Electronic check,65.94,1532.07,No
+0327-SYN,Male,1,Yes,No,9,No,Yes,Fiber optic,Yes,No internet service,Yes,No internet service,No,Yes,Month-to-month,No,Electronic check,66.56,631.54,No
+0328-SYN,Male,1,Yes,No,1,No,No,No,Yes,No internet service,No internet service,No internet service,Yes,Yes,One year,No,Mailed check,113.43,110.77,Yes
+0329-SYN,Female,1,Yes,Yes,66,No,No,Fiber optic,Yes,No,No internet service,No internet service,No internet service,No,Month-to-month,Yes,Mailed check,24.07,1484.52,No
+0330-SYN,Male,0,No,No,6,No,Yes,Fiber optic,No,Yes,No internet service,No,No internet service,No,One year,No,Electronic check,39.95,221.05,No
+0331-SYN,Male,0,Yes,Yes,0,Yes,No,No,Yes,Yes,Yes,Yes,No,No internet service,Month-to-month,No,Credit card (automatic),77.75,71.33,No
+0332-SYN,Female,0,No,Yes,67,Yes,No,Fiber optic,Yes,No internet service,No,No,No,No,One year,Yes,Credit card (automatic),37.94,2486.71,No
+0333-SYN,Female,0,Yes,Yes,13,Yes,No phone service,DSL,No,Yes,No,No internet service,No,Yes,Two year,No,Bank transfer (automatic),87.31,1031.87,Yes
+0334-SYN,Male,1,No,No,58,No,No phone service,DSL,Yes,No internet service,No internet service,No,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),39.84,2233.84,No
+0335-SYN,Female,0,No,No,2,No,No,DSL,Yes,No internet service,Yes,No internet service,No,No internet service,One year,Yes,Credit card (automatic),28.11,61.41,No
+0336-SYN,Male,0,Yes,No,11,Yes,No,DSL,No,Yes,No internet service,Yes,No internet service,No,Month-to-month,Yes,Mailed check,39.11,430.86,Yes
+0337-SYN,Female,1,No,No,7,Yes,No phone service,Fiber optic,Yes,No internet service,Yes,Yes,No,No internet service,One year,No,Mailed check,61.12,455.45,No
+0338-SYN,Female,0,Yes,Yes,50,No,No phone service,Fiber optic,No,Yes,No,Yes,Yes,No internet service,Month-to-month,Yes,Electronic check,35.97,1665.15,No
+0339-SYN,Female,1,Yes,No,44,Yes,Yes,Fiber optic,No,No,No internet service,Yes,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),31.74,1331.78,No
+0340-SYN,Female,0,No,No,34,Yes,No phone service,DSL,No,No,Yes,No,No,No internet service,Month-to-month,Yes,Electronic check,105.75,3916.61,Yes
+0341-SYN,Female,0,No,No,17,Yes,Yes,Fiber optic,No,No internet service,Yes,No,No internet service,No,Two year,Yes,Bank transfer (automatic),50.68,841.49,Yes
+0342-SYN,Female,1,No,Yes,6,No,No,DSL,No internet service,No,No internet service,No,No,Yes,Two year,Yes,Credit card (automatic),54.8,338.56,No
+0343-SYN,Female,1,Yes,Yes,40,Yes,Yes,No,Yes,No internet service,Yes,Yes,No,No,One year,No,Electronic check,23.64,1035.65,No
+0344-SYN,Male,1,Yes,No,16,Yes,No phone service,DSL,Yes,No,No internet service,No,No,No internet service,One year,No,Bank transfer (automatic),54.45,880.05,No
+0345-SYN,Female,1,Yes,No,42,No,Yes,Fiber optic,Yes,No internet service,No,Yes,No,No internet service,One year,Yes,Mailed check,45.01,1816.82,No
+0346-SYN,Female,0,Yes,No,49,Yes,No phone service,DSL,No internet service,No internet service,No,No,No internet service,No internet service,Two year,No,Mailed check,80.27,3958.36,No
+0347-SYN,Female,1,Yes,No,61,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,Yes,No,No,Month-to-month,No,Bank transfer (automatic),38.95,2164.32,Yes
+0348-SYN,Female,0,No,No,35,No,Yes,Fiber optic,No internet service,No,No internet service,Yes,No internet service,No,One year,Yes,Electronic check,108.61,3506.65,No
+0349-SYN,Female,1,Yes,No,0,No,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),112.83,101.71,Yes
+0350-SYN,Male,0,No,Yes,20,Yes,No phone service,DSL,No,No internet service,Yes,Yes,Yes,Yes,One year,No,Mailed check,28.18,606.91,No
+0351-SYN,Male,1,Yes,Yes,61,Yes,Yes,No,No,No internet service,Yes,No,No internet service,Yes,Month-to-month,Yes,Mailed check,28.96,1827.08,No
+0352-SYN,Male,0,Yes,Yes,38,Yes,Yes,Fiber optic,Yes,No internet service,Yes,No,No,No internet service,One year,No,Credit card (automatic),29.76,1085.27,No
+0353-SYN,Female,1,Yes,No,44,No,Yes,Fiber optic,No,No,No internet service,No,No internet service,No internet service,One year,Yes,Electronic check,81.2,3373.55,No
+0354-SYN,Female,1,Yes,No,32,No,No,No,No,No internet service,No,No,No,Yes,Month-to-month,Yes,Mailed check,30.44,1009.75,Yes
+0355-SYN,Male,1,Yes,No,11,Yes,Yes,No,Yes,No internet service,No internet service,Yes,No,No,Month-to-month,No,Credit card (automatic),104.94,1251.2,No
+0356-SYN,Male,1,Yes,No,64,No,No phone service,DSL,No internet service,No internet service,Yes,Yes,No internet service,No,One year,Yes,Mailed check,94.94,5832.07,No
+0357-SYN,Female,0,No,No,55,No,Yes,DSL,No internet service,Yes,No internet service,No internet service,No,Yes,One year,Yes,Electronic check,101.62,5389.64,No
+0358-SYN,Female,0,No,No,71,Yes,No phone service,DSL,Yes,No,No internet service,No internet service,No internet service,No,Month-to-month,No,Mailed check,71.66,5448.33,No
+0359-SYN,Female,1,Yes,No,61,Yes,No phone service,DSL,No internet service,No internet service,No internet service,Yes,No,No,One year,No,Credit card (automatic),119.66,7873.53,No
+0360-SYN,Male,0,Yes,No,20,No,No phone service,Fiber optic,Yes,No internet service,No,Yes,Yes,No internet service,Two year,Yes,Credit card (automatic),22.51,487.48,No
+0361-SYN,Male,0,Yes,No,18,No,No phone service,No,No internet service,No internet service,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),58.93,1016.86,Yes
+0362-SYN,Male,0,Yes,No,17,No,No phone service,No,No internet service,Yes,No,Yes,No internet service,Yes,Month-to-month,Yes,Mailed check,51.04,801.79,No
+0363-SYN,Male,1,Yes,No,66,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),114.76,7483.27,No
+0364-SYN,Female,0,Yes,No,40,Yes,No,Fiber optic,No,No internet service,No,No,No,No internet service,One year,No,Mailed check,76.84,2948.05,No
+0365-SYN,Male,0,No,No,32,Yes,No phone service,No,Yes,No internet service,Yes,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),100.23,3453.6,Yes
+0366-SYN,Female,1,Yes,No,69,Yes,No,No,No internet service,Yes,No internet service,No internet service,No,No internet service,One year,Yes,Credit card (automatic),35.37,2214.36,No
+0367-SYN,Female,0,Yes,No,43,Yes,No phone service,DSL,Yes,No,No internet service,No internet service,No,No internet service,One year,Yes,Electronic check,117.82,5201.91,No
+0368-SYN,Male,0,Yes,Yes,65,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,No,No internet service,Yes,Month-to-month,No,Credit card (automatic),68.86,4839.51,No
+0369-SYN,Male,0,No,No,70,No,No phone service,No,Yes,Yes,No internet service,No,Yes,No internet service,Two year,No,Bank transfer (automatic),68.35,5240.63,No
+0370-SYN,Female,1,Yes,No,5,No,Yes,DSL,Yes,No internet service,No,No,Yes,No internet service,One year,Yes,Bank transfer (automatic),117.03,602.72,No
+0371-SYN,Male,0,Yes,Yes,26,No,No,Fiber optic,Yes,Yes,No internet service,Yes,No internet service,No internet service,Month-to-month,No,Credit card (automatic),56.83,1610.54,Yes
+0372-SYN,Male,1,Yes,No,52,No,Yes,No,No,Yes,Yes,No,Yes,No internet service,Month-to-month,Yes,Electronic check,58.55,2786.21,No
+0373-SYN,Female,0,Yes,Yes,58,Yes,Yes,No,No,No internet service,No,Yes,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),77.64,4376.38,No
+0374-SYN,Female,0,Yes,No,10,No,Yes,No,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,31.06,280.08,Yes
+0375-SYN,Female,0,No,No,22,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,No,Month-to-month,No,Mailed check,50.75,1223.95,Yes
+0376-SYN,Male,0,Yes,Yes,39,No,No,DSL,Yes,No internet service,No,No internet service,No internet service,No,Two year,No,Electronic check,37.71,1589.15,No
+0377-SYN,Male,0,Yes,No,57,No,No phone service,DSL,No internet service,Yes,No,No internet service,No,Yes,Month-to-month,No,Electronic check,28.53,1472.71,No
+0378-SYN,Male,0,No,No,8,Yes,No phone service,Fiber optic,Yes,No,No internet service,No internet service,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),106.35,768.81,Yes
+0379-SYN,Male,0,Yes,No,43,No,No phone service,Fiber optic,Yes,No,No,Yes,No,No internet service,One year,No,Mailed check,78.11,3269.37,No
+0380-SYN,Male,1,Yes,Yes,21,No,Yes,Fiber optic,No,No internet service,No,Yes,Yes,No,One year,Yes,Mailed check,54.58,1090.83,Yes
+0381-SYN,Female,1,Yes,No,15,Yes,No,Fiber optic,Yes,Yes,No,No internet service,No internet service,Yes,Two year,Yes,Mailed check,59.68,957.31,No
+0382-SYN,Male,1,No,No,37,Yes,No phone service,Fiber optic,No,No,No,No internet service,Yes,No,One year,No,Bank transfer (automatic),62.01,2138.58,No
+0383-SYN,Female,1,No,No,29,No,Yes,Fiber optic,No internet service,No,No internet service,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),82.58,2534.03,Yes
+0384-SYN,Female,1,No,Yes,45,Yes,No,DSL,Yes,No,Yes,Yes,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),112.53,5119.01,No
+0385-SYN,Female,1,No,No,22,No,No phone service,DSL,No internet service,No internet service,No,No,Yes,No internet service,Two year,No,Credit card (automatic),113.14,2428.04,Yes
+0386-SYN,Male,1,No,No,59,Yes,No phone service,DSL,No,No,No,No,No,No,One year,No,Mailed check,57.93,3175.69,No
+0387-SYN,Male,0,No,No,5,No,No phone service,DSL,No,No internet service,Yes,No internet service,No,Yes,Two year,No,Credit card (automatic),51.58,283.57,No
+0388-SYN,Female,1,No,No,62,Yes,No,No,No,No internet service,No internet service,No,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),64.01,4062.27,No
+0389-SYN,Male,0,No,Yes,2,Yes,No,Fiber optic,No,No internet service,No,Yes,Yes,No internet service,Two year,No,Bank transfer (automatic),75.93,150.02,No
+0390-SYN,Female,1,No,Yes,52,No,No,DSL,Yes,No internet service,Yes,No internet service,Yes,Yes,One year,Yes,Electronic check,65.11,3298.45,No
+0391-SYN,Male,1,Yes,No,24,Yes,No phone service,Fiber optic,Yes,No,No,No internet service,No,Yes,Month-to-month,No,Mailed check,85.19,2210.47,No
+0392-SYN,Male,0,Yes,No,27,No,No,Fiber optic,No internet service,Yes,No internet service,Yes,No,No,One year,No,Bank transfer (automatic),74.55,2142.15,Yes
+0393-SYN,Female,0,No,Yes,1,Yes,No,DSL,Yes,No internet service,No internet service,Yes,No internet service,No,One year,No,Mailed check,50.71,53.87,No
+0394-SYN,Female,0,Yes,No,50,Yes,Yes,DSL,No internet service,No,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,53.26,2724.89,No
+0395-SYN,Male,0,Yes,No,11,No,No,DSL,No,Yes,No,No internet service,Yes,No,Month-to-month,Yes,Mailed check,56.62,671.15,Yes
+0396-SYN,Female,1,No,Yes,47,Yes,Yes,Fiber optic,No internet service,Yes,Yes,No,No internet service,Yes,Two year,Yes,Electronic check,27.65,1247.38,No
+0397-SYN,Male,1,No,Yes,52,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,34.94,1890.9,No
+0398-SYN,Female,1,No,No,60,No,No phone service,DSL,No,No internet service,No,No internet service,No internet service,Yes,Month-to-month,No,Credit card (automatic),91.76,5400.39,No
+0399-SYN,Female,1,Yes,No,50,No,No phone service,DSL,No,Yes,No,Yes,No internet service,No,Month-to-month,Yes,Electronic check,57.69,2942.19,No
+0400-SYN,Female,0,Yes,Yes,21,No,No,Fiber optic,No,No internet service,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),39.88,920.92,No
+0401-SYN,Female,0,Yes,No,53,No,No phone service,DSL,Yes,No,No,No internet service,No,No internet service,Two year,Yes,Mailed check,75.39,4382.87,No
+0402-SYN,Male,1,Yes,No,59,No,No phone service,No,No,Yes,No,No,No,Yes,One year,Yes,Credit card (automatic),95.07,5623.29,No
+0403-SYN,Female,1,No,No,22,No,No,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,No,Mailed check,44.26,988.1,Yes
+0404-SYN,Male,1,Yes,No,8,No,No phone service,Fiber optic,Yes,No internet service,Yes,No internet service,Yes,Yes,Two year,Yes,Credit card (automatic),102.33,883.69,No
+0405-SYN,Male,0,Yes,No,64,Yes,No,Fiber optic,No internet service,No internet service,No internet service,Yes,No,No,Two year,Yes,Bank transfer (automatic),112.61,7907.04,No
+0406-SYN,Male,1,Yes,No,10,No,No phone service,Fiber optic,No,No,No,No internet service,No,No,Month-to-month,No,Credit card (automatic),78.93,833.28,Yes
+0407-SYN,Male,1,No,Yes,42,Yes,No,DSL,Yes,No,No internet service,No internet service,Yes,No internet service,Two year,Yes,Electronic check,86.23,3306.71,No
+0408-SYN,Female,0,Yes,No,17,No,Yes,No,No internet service,Yes,No,No internet service,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),23.36,383.03,Yes
+0409-SYN,Male,0,Yes,Yes,9,Yes,Yes,No,Yes,Yes,No,No,Yes,No internet service,Two year,No,Mailed check,114.44,1111.65,No
+0410-SYN,Male,0,No,No,55,No,No phone service,DSL,No,No,No,Yes,No internet service,Yes,One year,Yes,Mailed check,58.03,3362.95,No
+0411-SYN,Male,0,No,Yes,10,No,Yes,DSL,No,No,No,No internet service,No internet service,Yes,One year,No,Electronic check,112.24,1176.78,No
+0412-SYN,Female,0,Yes,No,48,No,No phone service,No,No,Yes,Yes,No,No,No internet service,Month-to-month,No,Credit card (automatic),77.06,3823.11,No
+0413-SYN,Female,1,No,Yes,49,No,Yes,Fiber optic,No internet service,No internet service,Yes,No,No,No internet service,Two year,No,Bank transfer (automatic),18.47,889.69,Yes
+0414-SYN,Female,1,No,Yes,4,Yes,No,DSL,No internet service,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),21.93,86.02,No
+0415-SYN,Male,0,Yes,Yes,12,Yes,No,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),87.4,1113.6,No
+0416-SYN,Male,1,Yes,No,57,Yes,No,Fiber optic,No internet service,No internet service,No,No,No internet service,No internet service,Month-to-month,No,Electronic check,75.39,4120.0,No
+0417-SYN,Female,1,No,No,36,No,Yes,Fiber optic,No internet service,Yes,No,Yes,Yes,No,One year,Yes,Mailed check,20.71,773.12,No
+0418-SYN,Female,0,Yes,Yes,8,No,Yes,Fiber optic,No internet service,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,No,Mailed check,93.83,784.6,Yes
+0419-SYN,Female,0,No,No,71,Yes,No,No,No,Yes,No internet service,Yes,No internet service,No,Two year,No,Electronic check,104.92,7962.66,No
+0420-SYN,Female,0,No,No,19,Yes,No,Fiber optic,Yes,No,No,No internet service,No,No internet service,One year,No,Credit card (automatic),68.63,1257.0,No
+0421-SYN,Female,1,No,No,0,Yes,No phone service,DSL,Yes,No,Yes,No internet service,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),65.51,68.68,Yes
+0422-SYN,Female,1,No,No,66,No,No,Fiber optic,No,No internet service,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),18.56,1128.55,No
+0423-SYN,Male,1,Yes,No,1,Yes,Yes,Fiber optic,No,Yes,No internet service,Yes,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),98.24,91.13,No
+0424-SYN,Male,1,No,Yes,39,No,Yes,DSL,Yes,No internet service,No internet service,No,No,No internet service,One year,Yes,Bank transfer (automatic),51.73,1984.12,No
+0425-SYN,Male,0,No,No,71,No,No,DSL,Yes,No,Yes,No,No,Yes,Two year,Yes,Bank transfer (automatic),107.63,6961.96,No
+0426-SYN,Male,0,Yes,Yes,41,Yes,No,Fiber optic,No internet service,Yes,No internet service,No,No,Yes,Month-to-month,Yes,Electronic check,56.05,2503.82,No
+0427-SYN,Male,1,No,No,42,Yes,No phone service,Fiber optic,No internet service,No,No,Yes,No,No internet service,Two year,Yes,Bank transfer (automatic),75.64,3432.23,No
+0428-SYN,Female,0,Yes,No,27,No,No,DSL,No internet service,No internet service,No,No,No internet service,Yes,Month-to-month,No,Credit card (automatic),45.57,1119.39,No
+0429-SYN,Male,0,Yes,No,9,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,Two year,No,Credit card (automatic),34.38,330.36,No
+0430-SYN,Male,0,Yes,No,41,No,Yes,Fiber optic,Yes,Yes,No internet service,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),97.04,3985.7,No
+0431-SYN,Male,0,Yes,No,64,No,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,One year,Yes,Credit card (automatic),68.65,4571.07,No
+0432-SYN,Male,0,No,No,6,No,No phone service,Fiber optic,No internet service,No,Yes,No,No,No,One year,No,Bank transfer (automatic),72.72,470.09,No
+0433-SYN,Male,0,Yes,Yes,63,No,No,No,No,Yes,No,No internet service,No,No internet service,Two year,No,Mailed check,116.47,7450.57,No
+0434-SYN,Male,0,Yes,Yes,29,No,No,Fiber optic,No internet service,Yes,Yes,No internet service,No,No internet service,Month-to-month,No,Mailed check,116.29,3113.63,Yes
+0435-SYN,Female,1,No,No,38,Yes,No,DSL,No,No internet service,No internet service,No internet service,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),105.28,3602.64,No
+0436-SYN,Female,1,No,No,11,Yes,Yes,Fiber optic,No,Yes,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Credit card (automatic),37.14,408.29,Yes
+0437-SYN,Male,1,Yes,No,44,Yes,No,Fiber optic,No,No,No,No internet service,Yes,Yes,Month-to-month,Yes,Electronic check,78.62,3770.08,No
+0438-SYN,Female,1,Yes,Yes,13,No,No,DSL,No internet service,No internet service,No internet service,Yes,No,No,One year,Yes,Mailed check,107.57,1418.72,No
+0439-SYN,Female,1,No,No,19,No,Yes,DSL,No,Yes,Yes,Yes,No,Yes,One year,No,Bank transfer (automatic),56.2,1040.66,No
+0440-SYN,Female,0,No,Yes,51,Yes,No,DSL,No,No,No,No,No,Yes,Two year,Yes,Credit card (automatic),28.31,1308.36,No
+0441-SYN,Male,1,No,Yes,3,Yes,No,Fiber optic,No internet service,Yes,No,No,No,No internet service,Month-to-month,No,Mailed check,100.72,327.24,No
+0442-SYN,Female,1,No,Yes,32,No,Yes,Fiber optic,No,No internet service,Yes,No internet service,No internet service,Yes,One year,No,Bank transfer (automatic),67.14,2074.21,No
+0443-SYN,Male,1,Yes,No,42,Yes,No,DSL,No internet service,No,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,75.57,3303.93,No
+0444-SYN,Male,0,No,No,9,No,No phone service,No,No,No internet service,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,118.18,1104.94,No
+0445-SYN,Male,0,Yes,No,21,No,Yes,No,No internet service,No internet service,No,No internet service,No,Yes,One year,Yes,Credit card (automatic),79.94,1596.11,No
+0446-SYN,Female,1,Yes,No,24,Yes,No phone service,DSL,No,No,Yes,No internet service,Yes,No internet service,Two year,Yes,Bank transfer (automatic),61.35,1343.94,No
+0447-SYN,Male,1,No,No,47,Yes,No,No,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),55.74,2559.53,No
+0448-SYN,Male,1,No,No,70,Yes,No phone service,DSL,Yes,No,No internet service,Yes,No,Yes,Month-to-month,No,Electronic check,60.6,4086.85,No
+0449-SYN,Male,1,Yes,No,60,No,Yes,No,No,Yes,Yes,No,No,No,One year,No,Mailed check,30.08,1877.08,No
+0450-SYN,Male,0,Yes,No,13,Yes,No phone service,No,Yes,No,No internet service,No,No,Yes,Month-to-month,Yes,Credit card (automatic),99.06,1370.14,No
+0451-SYN,Female,0,No,No,1,Yes,No,DSL,No,Yes,No,Yes,Yes,No internet service,Two year,No,Credit card (automatic),103.45,97.71,No
+0452-SYN,Male,1,Yes,Yes,3,No,No phone service,Fiber optic,No internet service,No internet service,No,No,No internet service,Yes,One year,No,Credit card (automatic),47.01,141.83,No
+0453-SYN,Male,1,No,Yes,42,Yes,No phone service,No,No,No,No internet service,No internet service,No,Yes,Month-to-month,Yes,Mailed check,48.99,1868.53,No
+0454-SYN,Male,0,Yes,No,11,No,Yes,No,No,Yes,No,No internet service,Yes,Yes,Month-to-month,No,Credit card (automatic),107.18,1111.6,No
+0455-SYN,Male,0,No,No,16,Yes,Yes,No,Yes,No internet service,No internet service,No internet service,Yes,Yes,Month-to-month,No,Mailed check,20.44,344.16,No
+0456-SYN,Male,0,Yes,No,61,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),71.09,4590.95,No
+0457-SYN,Female,0,Yes,No,62,Yes,No,DSL,No,No,Yes,No internet service,No,No,Month-to-month,No,Credit card (automatic),65.29,4271.76,No
+0458-SYN,Male,1,Yes,Yes,60,Yes,No phone service,No,No,Yes,No,Yes,No,Yes,One year,Yes,Mailed check,88.39,4924.09,No
+0459-SYN,Male,0,No,No,18,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,Yes,One year,No,Mailed check,34.67,630.43,No
+0460-SYN,Female,1,No,No,44,No,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,One year,No,Credit card (automatic),86.17,3732.87,No
+0461-SYN,Female,0,No,No,43,Yes,Yes,Fiber optic,Yes,No internet service,No,No internet service,No internet service,Yes,Month-to-month,Yes,Mailed check,56.43,2665.01,No
+0462-SYN,Male,1,No,Yes,13,No,No,Fiber optic,No internet service,Yes,No internet service,No,No internet service,No,Two year,No,Mailed check,81.11,1086.92,Yes
+0463-SYN,Male,0,Yes,Yes,39,No,No phone service,DSL,No internet service,No internet service,Yes,Yes,No,No internet service,Month-to-month,No,Bank transfer (automatic),22.09,936.5,No
+0464-SYN,Male,1,No,No,37,No,Yes,Fiber optic,Yes,Yes,No internet service,No internet service,No internet service,Yes,One year,Yes,Credit card (automatic),65.1,2237.85,No
+0465-SYN,Female,1,No,No,28,No,No,DSL,Yes,Yes,No,Yes,No internet service,No internet service,One year,Yes,Electronic check,71.27,1975.95,No
+0466-SYN,Male,1,No,No,54,Yes,No,Fiber optic,No internet service,No,Yes,No,No internet service,No internet service,One year,No,Credit card (automatic),39.86,2269.36,No
+0467-SYN,Male,1,No,No,48,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,32.24,1506.62,No
+0468-SYN,Female,1,No,No,38,No,No phone service,Fiber optic,Yes,No,No internet service,Yes,No,No,Month-to-month,Yes,Electronic check,37.22,1451.84,No
+0469-SYN,Male,1,No,No,52,No,No phone service,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,53.1,2767.66,No
+0470-SYN,Male,0,No,No,54,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Month-to-month,No,Mailed check,27.87,1653.05,No
+0471-SYN,Female,0,Yes,No,40,No,No phone service,No,Yes,No internet service,No internet service,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),114.63,4286.13,No
+0472-SYN,Male,0,No,No,19,No,No phone service,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),59.31,1225.01,Yes
+0473-SYN,Female,0,Yes,No,54,No,No phone service,Fiber optic,No internet service,No internet service,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,100.51,5320.69,No
+0474-SYN,Female,1,No,No,51,Yes,Yes,DSL,No internet service,No internet service,Yes,No,No internet service,No internet service,Month-to-month,Yes,Mailed check,117.39,5948.57,Yes
+0475-SYN,Male,0,Yes,No,70,Yes,Yes,DSL,Yes,No,No internet service,No,No internet service,No,Month-to-month,No,Electronic check,26.23,1846.6,No
+0476-SYN,Female,0,No,No,10,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,84.47,805.06,No
+0477-SYN,Female,1,Yes,No,30,Yes,Yes,No,No internet service,No internet service,Yes,No,No internet service,No,One year,No,Bank transfer (automatic),106.88,3503.73,No
+0478-SYN,Female,0,No,No,66,Yes,Yes,Fiber optic,No internet service,Yes,Yes,No internet service,No,No internet service,One year,No,Credit card (automatic),82.69,5906.68,No
+0479-SYN,Male,0,Yes,No,37,Yes,No,DSL,No internet service,Yes,No,No internet service,No,No internet service,Month-to-month,No,Electronic check,61.76,2501.25,No
+0480-SYN,Male,1,Yes,No,67,Yes,No,No,Yes,No internet service,Yes,Yes,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),61.97,4564.63,No
+0481-SYN,Male,1,No,No,0,Yes,Yes,Fiber optic,Yes,No,No,No internet service,No,No internet service,Month-to-month,No,Mailed check,21.66,22.4,Yes
+0482-SYN,Female,1,No,No,2,Yes,Yes,No,Yes,No internet service,Yes,No,Yes,Yes,One year,No,Mailed check,72.53,143.66,No
+0483-SYN,Male,1,Yes,No,57,Yes,Yes,DSL,Yes,Yes,No internet service,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),119.34,7279.55,No
+0484-SYN,Female,1,Yes,No,25,Yes,No,Fiber optic,Yes,No,No,No internet service,No,Yes,Month-to-month,Yes,Electronic check,115.79,2619.06,No
+0485-SYN,Female,1,No,No,37,No,No phone service,No,Yes,No internet service,No internet service,Yes,Yes,No internet service,Month-to-month,No,Credit card (automatic),22.12,873.18,No
+0486-SYN,Female,0,No,No,30,No,No,DSL,No,No internet service,Yes,No,Yes,No internet service,Month-to-month,Yes,Mailed check,89.99,2698.23,No
+0487-SYN,Male,1,Yes,No,29,No,Yes,Fiber optic,No,No,No,No internet service,No internet service,No,Month-to-month,Yes,Electronic check,48.78,1463.63,No
+0488-SYN,Male,0,No,Yes,67,No,No,No,No,No internet service,Yes,No internet service,Yes,No internet service,One year,Yes,Credit card (automatic),110.1,7190.88,No
+0489-SYN,Female,0,Yes,No,6,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,No,Credit card (automatic),22.6,132.04,Yes
+0490-SYN,Male,1,No,No,55,No,Yes,DSL,Yes,No,No internet service,No,No,Yes,One year,No,Bank transfer (automatic),113.46,5655.85,No
+0491-SYN,Male,1,Yes,Yes,64,Yes,Yes,Fiber optic,No internet service,Yes,Yes,Yes,Yes,No internet service,One year,Yes,Bank transfer (automatic),103.42,6517.99,No
+0492-SYN,Female,0,Yes,No,47,No,No,DSL,No,No internet service,No internet service,Yes,Yes,No internet service,One year,No,Electronic check,29.99,1383.69,No
+0493-SYN,Female,1,Yes,No,28,Yes,No,DSL,Yes,No internet service,No,Yes,No internet service,Yes,Month-to-month,Yes,Mailed check,24.1,637.66,Yes
+0494-SYN,Female,1,No,Yes,11,Yes,No,Fiber optic,No internet service,No internet service,No internet service,No,No,Yes,One year,Yes,Mailed check,103.14,1077.21,Yes
+0495-SYN,Female,1,No,No,49,Yes,No,Fiber optic,No internet service,No internet service,Yes,No internet service,No internet service,No,Month-to-month,Yes,Credit card (automatic),33.89,1688.55,No
+0496-SYN,Male,0,Yes,No,33,Yes,No,DSL,No internet service,Yes,No internet service,No,No,Yes,Month-to-month,No,Mailed check,72.56,2307.21,No
+0497-SYN,Male,1,No,No,10,No,No phone service,DSL,Yes,No,No,No,No,No internet service,One year,Yes,Bank transfer (automatic),111.41,1187.69,No
+0498-SYN,Male,0,No,No,25,No,No phone service,No,No,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,Yes,Mailed check,75.88,1749.56,No
+0499-SYN,Male,1,No,No,69,Yes,Yes,Fiber optic,No internet service,Yes,Yes,No,No,Yes,Month-to-month,No,Bank transfer (automatic),58.52,4100.58,No
+0500-SYN,Female,0,No,No,19,Yes,No phone service,No,No internet service,No,No internet service,No internet service,Yes,Yes,One year,Yes,Electronic check,63.39,1122.52,No
+0501-SYN,Male,1,Yes,No,12,No,Yes,Fiber optic,Yes,No internet service,No internet service,No,No internet service,No internet service,Two year,No,Bank transfer (automatic),24.44,294.94,No
+0502-SYN,Female,0,Yes,Yes,49,No,Yes,No,No internet service,No,Yes,Yes,Yes,No,Two year,No,Electronic check,116.81,5783.84,No
+0503-SYN,Female,0,No,No,14,No,No,Fiber optic,No,No internet service,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),49.69,715.46,Yes
+0504-SYN,Female,0,Yes,No,66,No,Yes,DSL,No,No,No internet service,No,No,Yes,Month-to-month,No,Electronic check,37.32,2427.37,No
+0505-SYN,Male,1,Yes,No,61,No,No,No,No,No,No,No,No,No internet service,One year,No,Credit card (automatic),47.18,2883.43,No
+0506-SYN,Male,0,Yes,No,70,No,Yes,Fiber optic,No internet service,No,Yes,No internet service,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),116.37,7626.11,No
+0507-SYN,Female,1,No,No,65,No,No,DSL,Yes,No,No,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),27.62,1782.02,No
+0508-SYN,Female,0,No,No,17,Yes,No phone service,DSL,No,No internet service,No,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),106.46,1763.86,No
+0509-SYN,Male,0,No,Yes,15,No,No phone service,Fiber optic,No internet service,No internet service,Yes,No,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),90.2,1397.96,No
+0510-SYN,Male,1,Yes,No,24,Yes,Yes,DSL,No,Yes,No internet service,Yes,No,Yes,Month-to-month,Yes,Electronic check,102.66,2431.72,No
+0511-SYN,Female,1,Yes,No,33,Yes,No,DSL,Yes,No internet service,Yes,No,No internet service,No,Two year,Yes,Bank transfer (automatic),117.54,4095.52,No
+0512-SYN,Female,0,No,No,63,No,No,DSL,Yes,No,No internet service,No internet service,No internet service,No,Month-to-month,No,Mailed check,103.9,6448.81,No
+0513-SYN,Male,0,Yes,No,52,Yes,No,Fiber optic,No,No,No internet service,No,No,No internet service,Month-to-month,Yes,Credit card (automatic),114.22,5625.57,No
+0514-SYN,Male,0,No,No,46,No,No,Fiber optic,No internet service,Yes,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),30.95,1359.26,No
+0515-SYN,Female,1,Yes,No,63,No,No phone service,Fiber optic,No,No,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99.17,5679.52,No
+0516-SYN,Female,1,Yes,No,46,Yes,No,DSL,No internet service,No,Yes,No,No internet service,No,Month-to-month,No,Mailed check,73.66,3415.41,No
+0517-SYN,Female,0,Yes,Yes,27,Yes,Yes,DSL,No,No,Yes,No internet service,No,No internet service,One year,Yes,Electronic check,73.44,2114.1,No
+0518-SYN,Male,1,No,No,29,No,No phone service,Fiber optic,No,Yes,No internet service,Yes,No internet service,No,Month-to-month,Yes,Electronic check,109.69,3352.22,Yes
+0519-SYN,Male,0,No,No,37,No,No phone service,Fiber optic,Yes,No internet service,No internet service,Yes,Yes,Yes,Two year,Yes,Electronic check,117.12,4279.52,No
+0520-SYN,Female,0,Yes,No,6,No,Yes,Fiber optic,No,No,No internet service,No internet service,Yes,Yes,Two year,Yes,Credit card (automatic),89.89,506.56,No
+0521-SYN,Female,1,No,No,53,Yes,No,DSL,Yes,No,No,Yes,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),67.26,3823.93,No
+0522-SYN,Female,1,No,Yes,46,No,No phone service,DSL,No internet service,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,64.55,2706.09,No
+0523-SYN,Male,0,No,No,52,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,No,Mailed check,57.41,2925.15,No
+0524-SYN,Male,1,No,No,38,Yes,No,Fiber optic,No internet service,No internet service,Yes,No internet service,No,Yes,Month-to-month,Yes,Electronic check,54.88,2234.18,No
+0525-SYN,Male,0,Yes,No,56,Yes,No phone service,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),57.93,3174.77,No
+0526-SYN,Male,1,No,Yes,68,Yes,No phone service,No,No,No internet service,Yes,Yes,No,No,Two year,Yes,Mailed check,27.15,1705.1,No
+0527-SYN,Female,0,No,Yes,41,No,No,Fiber optic,Yes,No internet service,Yes,Yes,No internet service,No internet service,Two year,Yes,Credit card (automatic),25.9,1012.19,No
+0528-SYN,Male,0,Yes,No,31,No,Yes,Fiber optic,Yes,No,Yes,No internet service,No internet service,No,One year,Yes,Electronic check,97.55,3084.55,No
+0529-SYN,Female,0,Yes,No,7,Yes,No,Fiber optic,No internet service,No internet service,Yes,No internet service,No,No,Month-to-month,No,Credit card (automatic),63.5,413.57,No
+0530-SYN,Female,1,No,Yes,56,No,No phone service,DSL,Yes,No,No internet service,Yes,No,No internet service,One year,Yes,Electronic check,112.93,6520.04,No
+0531-SYN,Female,1,No,Yes,65,Yes,Yes,Fiber optic,No,No internet service,No internet service,Yes,No internet service,No internet service,One year,Yes,Mailed check,80.45,5164.58,No
+0532-SYN,Female,0,Yes,No,50,No,No,DSL,No internet service,Yes,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Mailed check,21.59,1043.74,No
+0533-SYN,Male,1,Yes,Yes,62,Yes,No,Fiber optic,No,No,Yes,No internet service,Yes,No,One year,No,Bank transfer (automatic),34.07,2002.89,No
+0534-SYN,Female,1,No,No,62,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),38.99,2573.7,No
+0535-SYN,Male,0,Yes,No,57,No,No,Fiber optic,No,No internet service,No internet service,Yes,No internet service,No,Month-to-month,Yes,Electronic check,117.53,6560.77,Yes
+0536-SYN,Male,1,Yes,Yes,36,No,No phone service,No,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,40.31,1520.37,No
+0537-SYN,Male,1,No,No,7,No,Yes,DSL,Yes,No internet service,No,No,Yes,No,Month-to-month,No,Bank transfer (automatic),70.61,488.37,No
+0538-SYN,Male,0,No,Yes,0,No,No,Fiber optic,Yes,Yes,No internet service,No,Yes,No internet service,Month-to-month,No,Mailed check,113.49,104.23,No
+0539-SYN,Female,0,Yes,No,14,Yes,No phone service,Fiber optic,No,Yes,No internet service,No internet service,Yes,No internet service,Two year,No,Electronic check,117.67,1627.78,No
+0540-SYN,Male,0,Yes,No,31,Yes,Yes,DSL,No,No,No internet service,Yes,No internet service,Yes,Two year,No,Electronic check,42.11,1307.42,No
+0541-SYN,Male,1,Yes,No,53,No,No,Fiber optic,Yes,Yes,No,No,No,No internet service,One year,No,Bank transfer (automatic),23.01,1209.25,No
+0542-SYN,Male,1,Yes,No,32,No,Yes,Fiber optic,No,No,No,No,Yes,Yes,Two year,Yes,Mailed check,33.67,1145.59,Yes
+0543-SYN,Male,0,No,Yes,1,Yes,No,No,No,No internet service,No internet service,Yes,Yes,No,Two year,No,Bank transfer (automatic),24.46,26.47,No
+0544-SYN,Female,0,Yes,No,15,Yes,No,No,Yes,No internet service,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Electronic check,37.9,601.11,No
+0545-SYN,Male,0,Yes,No,70,No,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75.99,5407.37,No
+0546-SYN,Female,0,Yes,No,71,Yes,Yes,Fiber optic,No internet service,No,No,No,No internet service,Yes,Month-to-month,Yes,Electronic check,111.07,7951.34,Yes
+0547-SYN,Male,0,No,No,27,Yes,No,Fiber optic,No,No,No,No internet service,Yes,No,Month-to-month,Yes,Bank transfer (automatic),72.8,2022.45,No
+0548-SYN,Female,0,No,Yes,57,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,No,One year,Yes,Credit card (automatic),81.85,4467.48,No
+0549-SYN,Male,1,No,No,51,Yes,Yes,DSL,No internet service,No,No,No internet service,Yes,No,Month-to-month,Yes,Mailed check,38.59,2090.84,No
+0550-SYN,Male,0,Yes,No,67,Yes,No phone service,No,No,No,No,No internet service,No,Yes,Month-to-month,Yes,Electronic check,99.66,7153.77,No
+0551-SYN,Male,1,No,No,63,No,Yes,DSL,Yes,No internet service,No internet service,Yes,No internet service,No,Month-to-month,No,Electronic check,81.01,4866.02,No
+0552-SYN,Female,0,Yes,No,45,Yes,No,Fiber optic,No,Yes,No,No internet service,No,Yes,Month-to-month,No,Mailed check,106.14,5161.1,No
+0553-SYN,Female,0,No,No,28,No,No,No,No,Yes,Yes,No internet service,Yes,No,Two year,Yes,Electronic check,114.78,3437.99,No
+0554-SYN,Male,1,No,Yes,45,No,No,DSL,No,No internet service,No internet service,No,No,No internet service,Month-to-month,No,Credit card (automatic),53.49,2370.7,No
+0555-SYN,Female,1,No,No,22,Yes,Yes,Fiber optic,Yes,No internet service,No,No,No,No internet service,Month-to-month,Yes,Credit card (automatic),27.24,648.3,Yes
+0556-SYN,Female,1,Yes,No,25,No,No phone service,No,Yes,Yes,Yes,No internet service,Yes,No,Month-to-month,No,Credit card (automatic),41.04,948.11,No
+0557-SYN,Male,1,No,No,43,No,Yes,Fiber optic,No,Yes,No internet service,Yes,No internet service,No internet service,Month-to-month,No,Credit card (automatic),62.66,2440.02,Yes
+0558-SYN,Male,0,No,No,41,Yes,No phone service,DSL,No internet service,No,No,Yes,No,Yes,One year,No,Bank transfer (automatic),114.46,4550.07,No
+0559-SYN,Female,0,No,No,41,No,No,DSL,No internet service,No internet service,No,No,Yes,No internet service,Month-to-month,Yes,Mailed check,56.59,2350.55,No
+0560-SYN,Female,1,Yes,No,27,Yes,No,No,No internet service,Yes,No internet service,No internet service,No,No,Month-to-month,No,Mailed check,96.62,2531.23,No
+0561-SYN,Female,1,No,No,29,Yes,Yes,DSL,Yes,Yes,No internet service,No,No internet service,No internet service,Month-to-month,Yes,Mailed check,73.13,2308.27,No
+0562-SYN,Male,1,No,No,0,No,No,Fiber optic,No,No internet service,No,Yes,No internet service,No internet service,Two year,No,Credit card (automatic),36.65,34.85,No
+0563-SYN,Male,1,Yes,Yes,43,No,No phone service,DSL,No,No internet service,No,No,Yes,No,One year,No,Mailed check,50.71,2085.12,No
+0564-SYN,Male,0,No,No,41,No,No phone service,Fiber optic,No,No internet service,No internet service,Yes,No internet service,No,One year,Yes,Mailed check,84.63,3563.4,No
+0565-SYN,Male,0,Yes,No,67,No,No phone service,No,No,No internet service,Yes,No internet service,No,No internet service,One year,Yes,Bank transfer (automatic),86.63,5228.27,No
+0566-SYN,Female,0,No,No,36,No,Yes,Fiber optic,No,No internet service,No internet service,No,No,Yes,One year,Yes,Mailed check,62.35,2346.75,Yes
+0567-SYN,Male,1,No,No,33,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Month-to-month,No,Mailed check,41.32,1330.14,No
+0568-SYN,Male,1,Yes,No,4,Yes,No,DSL,No internet service,Yes,No internet service,No,No internet service,No,Month-to-month,No,Electronic check,91.63,401.54,No
+0569-SYN,Male,0,Yes,No,14,No,No phone service,Fiber optic,No internet service,Yes,No,No internet service,No internet service,No,Month-to-month,No,Electronic check,35.23,512.1,Yes
+0570-SYN,Male,1,No,No,24,No,No phone service,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Electronic check,113.54,2480.92,No
+0571-SYN,Female,1,Yes,Yes,27,Yes,No phone service,Fiber optic,No,No internet service,Yes,No,No,Yes,Two year,No,Mailed check,37.17,921.82,No
+0572-SYN,Male,0,Yes,No,26,Yes,Yes,DSL,No,No,No internet service,No,No internet service,No,Month-to-month,No,Credit card (automatic),28.95,690.7,No
+0573-SYN,Female,0,Yes,No,28,No,Yes,No,No internet service,Yes,Yes,Yes,No,Yes,One year,Yes,Mailed check,68.76,2099.56,No
+0574-SYN,Male,1,No,No,55,Yes,No phone service,Fiber optic,No internet service,Yes,No,No,Yes,Yes,Two year,No,Bank transfer (automatic),70.99,4048.17,No
+0575-SYN,Male,1,No,No,9,Yes,No phone service,Fiber optic,No,Yes,Yes,No,No internet service,No internet service,Month-to-month,Yes,Mailed check,69.84,619.46,Yes
+0576-SYN,Male,0,No,No,23,No,No,No,No internet service,No,No internet service,No,Yes,No internet service,Two year,No,Mailed check,62.54,1352.25,No
+0577-SYN,Female,0,Yes,Yes,11,Yes,Yes,DSL,No internet service,No,No internet service,No internet service,No,No internet service,One year,No,Electronic check,119.47,1412.38,No
+0578-SYN,Male,0,Yes,No,22,No,Yes,DSL,No internet service,Yes,Yes,No internet service,No,Yes,Two year,Yes,Bank transfer (automatic),67.6,1398.43,No
+0579-SYN,Male,1,No,Yes,49,No,No phone service,DSL,Yes,No internet service,No internet service,No,No internet service,No,Month-to-month,No,Bank transfer (automatic),66.75,3405.95,No
+0580-SYN,Female,0,No,No,3,No,No,Fiber optic,No internet service,Yes,Yes,No,No,No internet service,Month-to-month,Yes,Mailed check,61.02,192.7,No
+0581-SYN,Female,1,No,No,24,No,No,DSL,No,No,No,Yes,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),24.82,571.22,Yes
+0582-SYN,Male,0,No,No,1,No,No phone service,Fiber optic,Yes,No,Yes,No,No internet service,No internet service,Month-to-month,Yes,Mailed check,78.48,78.56,No
+0583-SYN,Female,0,No,No,68,No,Yes,DSL,No internet service,No,Yes,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,41.25,2649.6,No
+0584-SYN,Female,0,Yes,No,52,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,No internet service,No internet service,No,Two year,No,Bank transfer (automatic),83.04,4213.52,No
+0585-SYN,Male,1,Yes,No,17,No,Yes,DSL,No,No internet service,No,No internet service,No internet service,No,One year,Yes,Bank transfer (automatic),23.19,430.9,No
+0586-SYN,Female,0,No,No,14,No,No phone service,Fiber optic,No,Yes,No,No,No internet service,Yes,Month-to-month,No,Electronic check,118.1,1717.27,Yes
+0587-SYN,Male,1,No,No,7,Yes,No phone service,DSL,No,No,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,65.84,492.83,Yes
+0588-SYN,Male,0,No,No,34,Yes,No,Fiber optic,Yes,Yes,Yes,No internet service,No,No internet service,Month-to-month,Yes,Mailed check,109.47,3752.2,Yes
+0589-SYN,Female,1,No,Yes,54,Yes,Yes,Fiber optic,No internet service,No,No internet service,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),66.51,3404.09,No
+0590-SYN,Male,0,Yes,No,42,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,No internet service,Two year,Yes,Mailed check,24.15,1057.48,No
+0591-SYN,Female,0,Yes,No,63,Yes,Yes,No,No,No,Yes,No,No internet service,No,Month-to-month,Yes,Credit card (automatic),101.87,6418.54,No
+0592-SYN,Female,1,No,No,24,No,No phone service,Fiber optic,Yes,Yes,Yes,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),84.11,1888.17,No
+0593-SYN,Male,1,No,Yes,20,Yes,Yes,DSL,No internet service,Yes,Yes,No,No internet service,Yes,One year,No,Electronic check,97.74,1920.56,No
+0594-SYN,Male,1,Yes,Yes,34,Yes,No,No,No internet service,Yes,No,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,61.67,2153.33,No
+0595-SYN,Male,0,Yes,No,14,Yes,No,DSL,No,Yes,No internet service,No internet service,No,Yes,Month-to-month,Yes,Credit card (automatic),83.07,1217.72,No
+0596-SYN,Female,1,No,No,70,Yes,No phone service,DSL,No,No,No internet service,Yes,No internet service,No,One year,No,Mailed check,105.34,6995.11,No
+0597-SYN,Male,0,No,No,13,No,No phone service,Fiber optic,No internet service,No internet service,No internet service,No internet service,Yes,Yes,One year,No,Bank transfer (automatic),82.37,1151.33,No
+0598-SYN,Male,1,No,No,34,Yes,No,DSL,No internet service,Yes,No,No,No,Yes,Two year,No,Credit card (automatic),53.46,1773.85,No
+0599-SYN,Female,1,Yes,No,37,No,No phone service,DSL,No internet service,Yes,Yes,No internet service,No internet service,No,One year,No,Bank transfer (automatic),85.58,3021.52,No
